@@ -1,0 +1,14 @@
+bin\IP.Core.IPWordReport.dll
+bin\IP.Core.IPWordReport.pdb
+bin\IP.Core.IPWordReport.xml
+bin\Interop.Microsoft.Office.Core.dll
+bin\Interop.VBIDE.dll
+bin\Interop.Word.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.Microsoft.Office.Core.dll
+obj\Debug\Interop.VBIDE.dll
+obj\Debug\Interop.Word.dll
+obj\Debug\IPWordReport.vbproj.ResolveComReference.cache
+obj\Debug\IP.Core.IPWordReport.dll
+obj\Debug\IP.Core.IPWordReport.xml
+obj\Debug\IP.Core.IPWordReport.pdb

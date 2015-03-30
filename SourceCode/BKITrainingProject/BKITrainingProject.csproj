@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{78272235-1F54-4999-968E-A24136D4F875}</ProjectGuid>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>App.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>BKITraining</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BKITraining</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>BKITrainingMain.ApplicationControl</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.Common">
+      <Name>C1.Common</Name>
+      <HintPath>..\DLL\C1.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid">
+      <Name>C1.Win.C1FlexGrid</Name>
+      <HintPath>..\DLL\C1.Win.C1FlexGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid.Classic">
+      <Name>C1.Win.C1FlexGrid.Classic</Name>
+      <HintPath>..\DLL\C1.Win.C1FlexGrid.Classic.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1Input">
+      <Name>C1.Win.C1Input</Name>
+      <HintPath>..\DLL\C1.Win.C1Input.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Excel">
+      <Name>Interop.Excel</Name>
+      <HintPath>..\DLL\Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Core">
+      <Name>Interop.Microsoft.Office.Core</Name>
+      <HintPath>..\DLL\Interop.Microsoft.Office.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Office">
+      <Name>Interop.Office</Name>
+      <HintPath>..\DLL\Interop.Office.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Word">
+      <Name>Interop.Word</Name>
+      <HintPath>..\DLL\Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="MComboBox">
+      <Name>mcombobox</Name>
+      <HintPath>..\DLL\mcombobox.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel">
+      <Name>Microsoft.Office.Interop.Excel</Name>
+      <HintPath>..\DLL\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorcfg">
+      <Name>mscorcfg</Name>
+    </Reference>
+    <Reference Include="SiSButton">
+      <Name>SiSButton</Name>
+      <HintPath>..\DLL\SiSButton.dll</HintPath>
+    </Reference>
+    <Reference Include="SiSMenu">
+      <Name>SiSMenu</Name>
+      <HintPath>..\DLL\SiSMenu.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <ProjectReference Include="..\BKITrainingDS\BKITrainingDS.csproj">
+      <Name>BKITrainingDS</Name>
+      <Project>{39DC1A18-A725-4DF1-93CE-467C130CEEF9}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\BKITrainingUS\BKITrainingUS.csproj">
+      <Name>BKITrainingUS</Name>
+      <Project>{A6E36F4B-6825-44A8-9396-C5BBD8630CB0}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\IPBusinessService\IPBusinessService.vbproj">
+      <Name>IPBusinessService</Name>
+      <Project>{73CA732C-2CFB-4A14-B0B9-F43763B1C2F3}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\IPCommon\IPCommon.vbproj">
+      <Name>IPCommon</Name>
+      <Project>{2A74F1D1-C0EE-41FE-A708-A83B285ACCF2}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\IPData\IPData.vbproj">
+      <Name>IPData</Name>
+      <Project>{9ACEDD70-FDA2-44D8-A004-3A7EAF86A954}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\IPExcelReport\IPExcelReport.vbproj">
+      <Name>IPExcelReport</Name>
+      <Project>{957C06D0-FF42-4C7A-B5E8-7E15C1522B59}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\IPException\IPException.vbproj">
+      <Name>IPException</Name>
+      <Project>{B73156C2-7034-4DEA-A308-5E1782FF8DB4}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\IPSystemAdmin\IPSystemAdmin.vbproj">
+      <Name>IPSystemAdmin</Name>
+      <Project>{455CD3A5-79BA-480A-B9BD-D4A7DDA397A8}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\IPUserService\IPUserService.vbproj">
+      <Name>IPUserService</Name>
+      <Project>{B490EA92-2990-4CBB-B58B-12901AFCCCB5}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="F001_DM_SINH_VIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F002_DM_SINH_VIEN_DE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F002_DM_SINH_VIEN_DE.designer.cs">
+      <DependentUpon>F002_DM_SINH_VIEN_DE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm400_ANHLT_TEST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm401_ANHLT_TEST_DE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm401_ANHLT_TEST_DE.Designer.cs">
+      <DependentUpon>frm401_ANHLT_TEST_DE.cs</DependentUpon>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="bin\Debug\Help\help.chm" />
+    <None Include="bin\Debug\Reports\Templates\DANH_SACH_DANG_KY_THEO_NGAY.xls" />
+    <None Include="bin\Debug\Reports\Templates\DANH_SACH_LIEN_HE_NHUNG_NGUOI_TRUNG_GIA.xls" />
+    <None Include="bin\Debug\Reports\Templates\DANH_SACH_NDT_DAT_GIA_TU_CAO_DEN_THAP.xls" />
+    <None Include="bin\Debug\Reports\Templates\DANH_SACH_NDT_NOP_TIEN_DAT_TAI_CTY.xls" />
+    <None Include="bin\Debug\Reports\Templates\DANH_SACH_NDT_TRUNG_GIA_TU_CAO_DEN_THAP.xls" />
+    <None Include="bin\Debug\Reports\Templates\DANH_SACH_NGUOI_SO_HUU_CK.xls" />
+    <None Include="bin\Debug\Reports\Templates\DANH_SACH_NHA_DAU_TU_THAM_GIA.xls" />
+    <None Include="bin\Debug\Reports\Templates\DANH_SACH_NHA_DAU_TU_TRUNG_GIA.xls" />
+    <None Include="bin\Debug\Reports\Templates\DANH_SACH_NOP_TIEN_DAT_COC.xls" />
+    <None Include="bin\Debug\Reports\Templates\DANH_SACH_NOP_TIEN_MUA_CO_PHAN.xls" />
+    <None Include="bin\Debug\Reports\Templates\DANH_SACH_SO_HUU_CHUNG_KHOAN.xls" />
+    <None Include="bin\Debug\Reports\Templates\DANH_SACH_TRA_TIEN_DAT_COC.xls" />
+    <None Include="bin\Debug\Reports\Templates\DANH_SACH_TRUNG_GIA_SAU_NOP_TIEN.xls" />
+    <None Include="bin\Debug\Reports\Templates\DANH_SACH_TU_CHOI_MUA_CO_PHAN.xls" />
+    <None Include="bin\Debug\Reports\Templates\LIET_KE_CHUNG_TU_NOP_TIEN_DAT_COC.xls" />
+    <None Include="bin\Debug\Reports\Templates\RPT_NOP_TIEN_MUA_CO_PHAN.xls" />
+    <None Include="bin\Debug\Reports\Templates\TRA_TIEN_DAT_COC.xls" />
+    <Content Include="App.ico" />
+    <Content Include="AuctionProject.csproj.user" />
+    <Compile Include="ApplicationControl.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="f001_main_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f003_tu_test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f003_tu_test.Designer.cs">
+      <DependentUpon>f003_tu_test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="f004_tu_test_de.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f004_tu_test_de.Designer.cs">
+      <DependentUpon>f004_tu_test_de.cs</DependentUpon>
+    </Compile>
+    <Compile Include="f005_bkindex_members.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f200_danh_sach_lop_ipcore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm002_test_de.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm002_test_de.Designer.cs">
+      <DependentUpon>frm002_test_de.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="F001_DM_SINH_VIEN.resx">
+      <DependentUpon>F001_DM_SINH_VIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f001_main_form.resx">
+      <DependentUpon>f001_main_form.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F002_DM_SINH_VIEN_DE.resx">
+      <DependentUpon>F002_DM_SINH_VIEN_DE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f003_tu_test.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>f003_tu_test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f004_tu_test_de.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>f004_tu_test_de.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f005_bkindex_members.resx">
+      <DependentUpon>f005_bkindex_members.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f200_danh_sach_lop_ipcore.resx">
+      <DependentUpon>f200_danh_sach_lop_ipcore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm002_test_de.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm002_test_de.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm400_ANHLT_TEST.resx">
+      <DependentUpon>frm400_ANHLT_TEST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm401_ANHLT_TEST_DE.resx">
+      <DependentUpon>frm401_ANHLT_TEST_DE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="licenses.licx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{CF845C55-C321-4742-B673-E6212D061ED9}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\Reports\Output\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

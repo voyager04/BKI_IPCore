@@ -1,0 +1,33 @@
+E:\23. TRAINING INTEGRA NET\SourceCode\IPData\bin\IPData.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPData\bin\IPData.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPData\bin\IPData.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPData\obj\Debug\ResolveAssemblyReference.cache
+E:\23. TRAINING INTEGRA NET\SourceCode\IPData\obj\Debug\IPData.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPData\obj\Debug\IPData.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPData\obj\Debug\IPData.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPData\bin\IPData.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPData\bin\IPData.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPData\bin\IPData.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPData\obj\Debug\ResolveAssemblyReference.cache
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPData\obj\Debug\IPData.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPData\obj\Debug\IPData.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPData\obj\Debug\IPData.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPData\bin\IPData.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPData\bin\IPData.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPData\bin\IPData.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPData\obj\Debug\ResolveAssemblyReference.cache
+D:\BKI\BKITraining IPCore\SourceCode\IPData\obj\Debug\IPData.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPData\obj\Debug\IPData.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPData\obj\Debug\IPData.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPData\bin\IPData.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPData\bin\IPData.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPData\bin\IPData.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPData\obj\Debug\IPData.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPData\obj\Debug\IPData.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPData\obj\Debug\IPData.pdb
+D:\BKITraining IPCore\SourceCode\IPData\bin\IPData.dll
+D:\BKITraining IPCore\SourceCode\IPData\bin\IPData.pdb
+D:\BKITraining IPCore\SourceCode\IPData\bin\IPData.xml
+D:\BKITraining IPCore\SourceCode\IPData\obj\Debug\IPData.dll
+D:\BKITraining IPCore\SourceCode\IPData\obj\Debug\IPData.xml
+D:\BKITraining IPCore\SourceCode\IPData\obj\Debug\IPData.pdb

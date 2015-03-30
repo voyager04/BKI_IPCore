@@ -1,0 +1,13 @@
+D:\BKITraining IPCore\Tools\GenCodeForForm\GenForm\obj\Debug\GenForm.exe
+D:\BKITraining IPCore\Tools\GenCodeForForm\GenForm\obj\Debug\GenForm.pdb
+D:\BKITraining IPCore\Tools\GenCodeForForm\GenForm\bin\GenForm.exe
+D:\BKITraining IPCore\Tools\GenCodeForForm\GenForm\bin\GenForm.pdb
+D:\BKITraining IPCore\Tools\GenCodeForForm\GenForm\bin\GenForm.xml
+D:\BKITraining IPCore\Tools\GenCodeForForm\GenForm\bin\C1.Common.dll
+D:\BKITraining IPCore\Tools\GenCodeForForm\GenForm\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\BKITraining IPCore\Tools\GenCodeForForm\GenForm\bin\C1.Win.C1FlexGrid.dll
+D:\BKITraining IPCore\Tools\GenCodeForForm\GenForm\obj\Debug\GenForm.vbprojResolveAssemblyReference.cache
+D:\BKITraining IPCore\Tools\GenCodeForForm\GenForm\obj\Debug\GenForm.m_frm_main.resources
+D:\BKITraining IPCore\Tools\GenCodeForForm\GenForm\obj\Debug\GenForm.vbproj.GenerateResource.Cache
+D:\BKITraining IPCore\Tools\GenCodeForForm\GenForm\obj\Debug\GenForm.exe.licenses
+D:\BKITraining IPCore\Tools\GenCodeForForm\GenForm\obj\Debug\GenForm.xml

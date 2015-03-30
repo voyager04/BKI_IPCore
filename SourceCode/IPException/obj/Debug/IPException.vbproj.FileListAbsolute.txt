@@ -1,0 +1,33 @@
+E:\23. TRAINING INTEGRA NET\SourceCode\IPException\bin\IPException.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPException\bin\IPException.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPException\bin\IPException.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPException\obj\Debug\ResolveAssemblyReference.cache
+E:\23. TRAINING INTEGRA NET\SourceCode\IPException\obj\Debug\IPException.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPException\obj\Debug\IPException.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPException\obj\Debug\IPException.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPException\bin\IPException.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPException\bin\IPException.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPException\bin\IPException.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPException\obj\Debug\ResolveAssemblyReference.cache
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPException\obj\Debug\IPException.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPException\obj\Debug\IPException.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPException\obj\Debug\IPException.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPException\bin\IPException.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPException\bin\IPException.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPException\bin\IPException.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPException\obj\Debug\ResolveAssemblyReference.cache
+D:\BKI\BKITraining IPCore\SourceCode\IPException\obj\Debug\IPException.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPException\obj\Debug\IPException.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPException\obj\Debug\IPException.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPException\bin\IPException.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPException\bin\IPException.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPException\bin\IPException.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPException\obj\Debug\IPException.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPException\obj\Debug\IPException.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPException\obj\Debug\IPException.pdb
+D:\BKITraining IPCore\SourceCode\IPException\bin\IPException.dll
+D:\BKITraining IPCore\SourceCode\IPException\bin\IPException.pdb
+D:\BKITraining IPCore\SourceCode\IPException\bin\IPException.xml
+D:\BKITraining IPCore\SourceCode\IPException\obj\Debug\IPException.dll
+D:\BKITraining IPCore\SourceCode\IPException\obj\Debug\IPException.xml
+D:\BKITraining IPCore\SourceCode\IPException\obj\Debug\IPException.pdb

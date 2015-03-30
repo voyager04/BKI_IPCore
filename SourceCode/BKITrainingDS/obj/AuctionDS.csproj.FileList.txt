@@ -1,0 +1,6 @@
+bin\Debug\AuctionDS.dll.config
+bin\Debug\AuctionDS.dll
+bin\Debug\AuctionDS.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AuctionDS.dll
+obj\Debug\AuctionDS.pdb

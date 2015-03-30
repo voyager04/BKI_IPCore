@@ -1,0 +1,96 @@
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\obj\Debug\ResolveAssemblyReference.cache
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\IPExcelReport.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\IPExcelReport.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\IPExcelReport.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\Interop.Excel.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\Interop.Microsoft.Office.Core.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\Interop.Office.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\IPCommon.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.Classic.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\CrystalDecisions.Shared.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\CrystalDecisions.Windows.Forms.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\C1.Common.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\CrystalDecisions.ReportSource.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\IPCommon.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\IPCommon.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\IPExcelReport.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\IPExcelReport.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\IPExcelReport.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\Interop.Excel.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\Interop.Microsoft.Office.Core.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\Interop.Office.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\IPCommon.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.Classic.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\C1.Common.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\IPCommon.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\bin\IPCommon.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\obj\Debug\ResolveAssemblyReference.cache
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPExcelReport.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPExcelReport.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPExcelReport.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\Interop.Excel.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\Interop.Microsoft.Office.Core.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\Interop.Office.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPCommon.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\CrystalDecisions.Shared.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\CrystalDecisions.Windows.Forms.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\C1.Common.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\CrystalDecisions.ReportSource.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPCommon.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPCommon.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\obj\Debug\ResolveAssemblyReference.cache
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPExcelReport.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPExcelReport.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPExcelReport.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\Interop.Excel.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\Interop.Microsoft.Office.Core.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\Interop.Office.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPCommon.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.Classic.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\CrystalDecisions.Shared.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\CrystalDecisions.Windows.Forms.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\C1.Common.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\CrystalDecisions.ReportSource.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPCommon.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPCommon.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.vbprojResolveAssemblyReference.cache
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.pdb
+D:\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPExcelReport.dll
+D:\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPExcelReport.pdb
+D:\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPExcelReport.xml
+D:\BKITraining IPCore\SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.dll
+D:\BKITraining IPCore\SourceCode\IPExcelReport\bin\Interop.Excel.dll
+D:\BKITraining IPCore\SourceCode\IPExcelReport\bin\Interop.Microsoft.Office.Core.dll
+D:\BKITraining IPCore\SourceCode\IPExcelReport\bin\Interop.Office.dll
+D:\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPCommon.dll
+D:\BKITraining IPCore\SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\BKITraining IPCore\SourceCode\IPExcelReport\bin\CrystalDecisions.Shared.dll
+D:\BKITraining IPCore\SourceCode\IPExcelReport\bin\CrystalDecisions.Windows.Forms.dll
+D:\BKITraining IPCore\SourceCode\IPExcelReport\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\BKITraining IPCore\SourceCode\IPExcelReport\bin\C1.Common.dll
+D:\BKITraining IPCore\SourceCode\IPExcelReport\bin\CrystalDecisions.ReportSource.dll
+D:\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPCommon.pdb
+D:\BKITraining IPCore\SourceCode\IPExcelReport\bin\IPCommon.xml
+D:\BKITraining IPCore\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.vbprojResolveAssemblyReference.cache
+D:\BKITraining IPCore\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.dll
+D:\BKITraining IPCore\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.xml
+D:\BKITraining IPCore\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.pdb

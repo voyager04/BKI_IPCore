@@ -1,0 +1,109 @@
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\Auction.exe.config
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\Auction.exe
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\Auction.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\Auction.exe
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\Auction.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\AuctionDS.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\AuctionUS.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\C1.Common.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\C1.Win.C1Input.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\Interop.Excel.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\Interop.Office.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\Interop.Word.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPBusinessService.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPCommon.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPData.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPExcelReport.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPException.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPSystemAdmin.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPUserService.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\mcombobox.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\mscorcfg.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\SiSButton.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\SiSMenu.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\AuctionDS.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\AuctionUS.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPBusinessService.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPBusinessService.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPCommon.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPCommon.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPData.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPData.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPExcelReport.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPExcelReport.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPException.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPException.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPSystemAdmin.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPSystemAdmin.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPUserService.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPUserService.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\ResolveAssemblyReference.cache
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\AuctionForm.f001_main_form.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\AuctionForm.f003_tu_test.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\AuctionForm.f004_tu_test_de.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\AuctionForm.frm002_test_de.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\Auction.exe.licenses
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\CrystalDecisions.Shared.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\AuctionForm.f005_bkindex_members.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\Auction.exe.config
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\Auction.exe
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\Auction.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\Auction.exe
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\Auction.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\AuctionDS.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\AuctionUS.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\C1.Common.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\C1.Win.C1Input.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\Interop.Excel.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\Interop.Office.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\Interop.Word.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPBusinessService.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPCommon.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPData.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPExcelReport.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPException.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPSystemAdmin.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPUserService.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\mcombobox.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\mscorcfg.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\SiSButton.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\SiSMenu.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\AuctionDS.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\AuctionUS.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPBusinessService.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPBusinessService.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPCommon.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPCommon.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPData.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPData.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPExcelReport.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPExcelReport.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPException.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPException.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPSystemAdmin.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPSystemAdmin.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPUserService.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\bin\Debug\IPUserService.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\ResolveAssemblyReference.cache
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\AuctionForm.f003_tu_test.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\AuctionForm.f004_tu_test_de.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\AuctionForm.f005_bkindex_members.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\AuctionForm.frm002_test_de.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\Auction.exe.licenses
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\AuctionMain.f200_danh_sach_lop_ipcore.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionProject\obj\Debug\AuctionMain.f001_main_form.resources

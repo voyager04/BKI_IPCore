@@ -1,0 +1,184 @@
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\ResolveAssemblyReference.cache
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f100_TuDien.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f101_Dang_Nhap.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f102_TuDien_DE.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f996_license.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll.licenses
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\C1.Common.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.Classic.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPBusinessService.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPCommon.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPData.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPException.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPUserService.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\SiSButton.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\SiSMenu.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\CrystalDecisions.Shared.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\CrystalDecisions.Windows.Forms.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\CrystalDecisions.ReportSource.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPBusinessService.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPBusinessService.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPCommon.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPCommon.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPData.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPData.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPException.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPException.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPUserService.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPUserService.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\C1.Common.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.Classic.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPBusinessService.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPCommon.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPData.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPException.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPUserService.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\SiSButton.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\SiSMenu.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPBusinessService.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPBusinessService.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPCommon.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPCommon.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPData.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPData.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPException.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPException.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPUserService.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\bin\IPUserService.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\ResolveAssemblyReference.cache
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f100_TuDien.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f101_Dang_Nhap.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f102_TuDien_DE.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f996_license.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll.licenses
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\C1.Common.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPBusinessService.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPCommon.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPData.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPException.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPUserService.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\SiSButton.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\SiSMenu.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\CrystalDecisions.Shared.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\CrystalDecisions.Windows.Forms.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\CrystalDecisions.ReportSource.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPBusinessService.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPBusinessService.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPCommon.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPCommon.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPData.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPData.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPException.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPException.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPUserService.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPUserService.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\ResolveAssemblyReference.cache
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f100_TuDien.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f101_Dang_Nhap.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f102_TuDien_DE.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f996_license.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\ResGen.read.1.tlog
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\ResGen.write.1.tlog
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll.licenses
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\C1.Common.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.Classic.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPBusinessService.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPCommon.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPData.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPException.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPUserService.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\SiSButton.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\SiSMenu.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\CrystalDecisions.Shared.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\CrystalDecisions.Windows.Forms.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\CrystalDecisions.ReportSource.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPBusinessService.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPBusinessService.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPCommon.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPCommon.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPData.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPData.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPException.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPException.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPUserService.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPUserService.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.vbprojResolveAssemblyReference.cache
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f100_TuDien.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f101_Dang_Nhap.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f102_TuDien_DE.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f996_license.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.vbproj.GenerateResource.Cache
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll.licenses
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.pdb
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.dll
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.pdb
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.xml
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\C1.Common.dll
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.dll
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPBusinessService.dll
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPCommon.dll
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPData.dll
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPException.dll
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPUserService.dll
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\SiSButton.dll
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\SiSMenu.dll
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\CrystalDecisions.Shared.dll
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\CrystalDecisions.Windows.Forms.dll
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\CrystalDecisions.ReportSource.dll
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPBusinessService.pdb
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPBusinessService.xml
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPCommon.pdb
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPCommon.xml
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPData.pdb
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPData.xml
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPException.pdb
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPException.xml
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPUserService.pdb
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\bin\IPUserService.xml
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.vbprojResolveAssemblyReference.cache
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f100_TuDien.resources
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f101_Dang_Nhap.resources
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f102_TuDien_DE.resources
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f996_license.resources
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.vbproj.GenerateResource.Cache
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll.licenses
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.xml
+D:\BKITraining IPCore\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.pdb

@@ -1,0 +1,16 @@
+bin\IPExcelReport.dll
+bin\IPExcelReport.pdb
+bin\IPExcelReport.xml
+bin\C1.Win.C1FlexGrid.dll
+bin\Interop.Excel.dll
+bin\Interop.Microsoft.Office.Core.dll
+bin\Interop.Office.dll
+bin\IPCommon.dll
+bin\C1.Win.C1FlexGrid.Classic.dll
+bin\C1.Common.dll
+bin\IPCommon.pdb
+bin\IPCommon.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\IPExcelReport.dll
+obj\Debug\IPExcelReport.xml
+obj\Debug\IPExcelReport.pdb

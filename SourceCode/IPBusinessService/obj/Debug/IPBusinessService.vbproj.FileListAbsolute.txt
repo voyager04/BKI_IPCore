@@ -1,0 +1,50 @@
+E:\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\bin\IPBusinessService.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\bin\IPBusinessService.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\bin\IPBusinessService.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\bin\IPException.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\bin\IPException.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\bin\IPException.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\obj\Debug\ResolveAssemblyReference.cache
+E:\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\bin\IPBusinessService.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\bin\IPBusinessService.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\bin\IPBusinessService.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\bin\IPException.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\bin\IPException.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\bin\IPException.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\obj\Debug\ResolveAssemblyReference.cache
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPBusinessService.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPBusinessService.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPBusinessService.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPException.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPException.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPException.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\obj\Debug\ResolveAssemblyReference.cache
+D:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPBusinessService.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPBusinessService.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPBusinessService.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPException.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPException.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPException.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.vbprojResolveAssemblyReference.cache
+E:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.pdb
+D:\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPBusinessService.dll
+D:\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPBusinessService.pdb
+D:\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPBusinessService.xml
+D:\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPException.dll
+D:\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPException.pdb
+D:\BKITraining IPCore\SourceCode\IPBusinessService\bin\IPException.xml
+D:\BKITraining IPCore\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.vbprojResolveAssemblyReference.cache
+D:\BKITraining IPCore\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.dll
+D:\BKITraining IPCore\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.xml
+D:\BKITraining IPCore\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.pdb

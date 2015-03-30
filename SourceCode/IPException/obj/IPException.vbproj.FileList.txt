@@ -1,0 +1,7 @@
+bin\IPException.dll
+bin\IPException.pdb
+bin\IPException.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\IPException.dll
+obj\Debug\IPException.xml
+obj\Debug\IPException.pdb

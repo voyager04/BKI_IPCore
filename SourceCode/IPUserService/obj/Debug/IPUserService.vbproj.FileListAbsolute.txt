@@ -1,0 +1,126 @@
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\obj\Debug\ResolveAssemblyReference.cache
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\obj\Debug\IPUserService.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\obj\Debug\IPUserService.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\obj\Debug\IPUserService.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPUserService.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPUserService.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPUserService.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPBusinessService.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPCommon.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPData.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPException.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.Classic.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\CrystalDecisions.Shared.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\CrystalDecisions.Windows.Forms.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\C1.Common.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\CrystalDecisions.ReportSource.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPBusinessService.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPBusinessService.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPCommon.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPCommon.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPData.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPData.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPException.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPException.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPUserService.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPUserService.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPUserService.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPBusinessService.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPCommon.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPData.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPException.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.Classic.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\C1.Common.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPBusinessService.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPBusinessService.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPCommon.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPCommon.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPData.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPData.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPException.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\bin\IPException.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\obj\Debug\ResolveAssemblyReference.cache
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\obj\Debug\IPUserService.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\obj\Debug\IPUserService.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPUserService\obj\Debug\IPUserService.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPUserService.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPUserService.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPUserService.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPBusinessService.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPCommon.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPData.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPException.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\CrystalDecisions.Shared.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\CrystalDecisions.Windows.Forms.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\C1.Common.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\CrystalDecisions.ReportSource.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPBusinessService.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPBusinessService.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPCommon.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPCommon.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPData.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPData.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPException.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPException.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\obj\Debug\ResolveAssemblyReference.cache
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\obj\Debug\IPUserService.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\obj\Debug\IPUserService.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPUserService\obj\Debug\IPUserService.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPUserService.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPUserService.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPUserService.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPBusinessService.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPCommon.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPData.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPException.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.Classic.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\CrystalDecisions.Shared.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\CrystalDecisions.Windows.Forms.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\C1.Common.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\CrystalDecisions.ReportSource.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPBusinessService.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPBusinessService.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPCommon.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPCommon.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPData.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPData.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPException.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\bin\IPException.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\obj\Debug\IPUserService.vbprojResolveAssemblyReference.cache
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\obj\Debug\IPUserService.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\obj\Debug\IPUserService.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPUserService\obj\Debug\IPUserService.pdb
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\IPUserService.dll
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\IPUserService.pdb
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\IPUserService.xml
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.dll
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\IPBusinessService.dll
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\IPCommon.dll
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\IPData.dll
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\IPException.dll
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\CrystalDecisions.Shared.dll
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\CrystalDecisions.Windows.Forms.dll
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\C1.Common.dll
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\CrystalDecisions.ReportSource.dll
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\IPBusinessService.pdb
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\IPBusinessService.xml
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\IPCommon.pdb
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\IPCommon.xml
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\IPData.pdb
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\IPData.xml
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\IPException.pdb
+D:\BKITraining IPCore\SourceCode\IPUserService\bin\IPException.xml
+D:\BKITraining IPCore\SourceCode\IPUserService\obj\Debug\IPUserService.vbprojResolveAssemblyReference.cache
+D:\BKITraining IPCore\SourceCode\IPUserService\obj\Debug\IPUserService.dll
+D:\BKITraining IPCore\SourceCode\IPUserService\obj\Debug\IPUserService.xml
+D:\BKITraining IPCore\SourceCode\IPUserService\obj\Debug\IPUserService.pdb

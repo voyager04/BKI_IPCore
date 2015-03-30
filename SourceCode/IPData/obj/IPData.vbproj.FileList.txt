@@ -1,0 +1,7 @@
+bin\IPData.dll
+bin\IPData.pdb
+bin\IPData.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\IPData.dll
+obj\Debug\IPData.xml
+obj\Debug\IPData.pdb

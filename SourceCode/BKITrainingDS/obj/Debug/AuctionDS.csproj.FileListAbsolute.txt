@@ -1,0 +1,12 @@
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\bin\Debug\AuctionDS.dll.config
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\bin\Debug\AuctionDS.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\bin\Debug\AuctionDS.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\obj\Debug\ResolveAssemblyReference.cache
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\obj\Debug\AuctionDS.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\obj\Debug\AuctionDS.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\bin\Debug\AuctionDS.dll.config
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\bin\Debug\AuctionDS.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\bin\Debug\AuctionDS.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\obj\Debug\ResolveAssemblyReference.cache
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\obj\Debug\AuctionDS.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\obj\Debug\AuctionDS.pdb

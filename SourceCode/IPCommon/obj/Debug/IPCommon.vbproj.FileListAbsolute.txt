@@ -1,0 +1,163 @@
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\ResolveAssemblyReference.cache
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton2.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton3.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlClock.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgButtonYes_No_Cancel.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBtn_Yes_No.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.DataGrid_Custom.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.f370_REPORT_VIEW.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmEditText.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmIcons.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchDate.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchNumeric.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchString.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_Yes_No.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxFormYes_No_Cancel.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_OK.resources
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IPCommon.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IPCommon.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IPCommon.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\IPCommon.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\IPCommon.pdb
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\IPCommon.xml
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\C1.Common.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.Classic.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\CrystalDecisions.ReportSource.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\CrystalDecisions.Shared.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\CrystalDecisions.Web.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\CrystalDecisions.Windows.Forms.dll
+E:\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\CrystalReportPluginLib.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\IPCommon.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\IPCommon.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\IPCommon.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\C1.Common.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.Classic.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\CrystalDecisions.ReportSource.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\CrystalDecisions.Shared.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\CrystalDecisions.Web.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\CrystalDecisions.Windows.Forms.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\bin\CrystalReportPluginLib.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\ResolveAssemblyReference.cache
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton2.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton3.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlClock.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgButtonYes_No_Cancel.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBtn_Yes_No.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.DataGrid_Custom.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.f370_REPORT_VIEW.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmEditText.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmIcons.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchDate.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchNumeric.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchString.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_Yes_No.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxFormYes_No_Cancel.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_OK.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IPCommon.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IPCommon.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\IPCommon\obj\Debug\IPCommon.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\IPCommon.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\IPCommon.pdb
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\IPCommon.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\C1.Common.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalDecisions.ReportSource.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalDecisions.Shared.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalDecisions.Web.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalDecisions.Windows.Forms.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalReportPluginLib.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton2.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton3.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlClock.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgButtonYes_No_Cancel.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBtn_Yes_No.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.DataGrid_Custom.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.f370_REPORT_VIEW.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmEditText.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmIcons.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchDate.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchNumeric.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchString.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_Yes_No.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxFormYes_No_Cancel.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_OK.resources
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\ResGen.read.1.tlog
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\ResGen.write.1.tlog
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IPCommon.dll
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IPCommon.xml
+D:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IPCommon.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\IPCommon.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\IPCommon.pdb
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\IPCommon.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\C1.Common.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.Classic.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalDecisions.ReportSource.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalDecisions.Shared.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalDecisions.Web.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalDecisions.Windows.Forms.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalReportPluginLib.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IPCommon.vbprojResolveAssemblyReference.cache
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton2.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton3.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlClock.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgButtonYes_No_Cancel.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBtn_Yes_No.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.DataGrid_Custom.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.f370_REPORT_VIEW.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmEditText.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmIcons.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchDate.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchNumeric.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchString.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_Yes_No.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxFormYes_No_Cancel.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_OK.resources
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IPCommon.vbproj.GenerateResource.Cache
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IPCommon.dll
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IPCommon.xml
+E:\BKI\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IPCommon.pdb
+D:\BKITraining IPCore\SourceCode\IPCommon\bin\IPCommon.dll
+D:\BKITraining IPCore\SourceCode\IPCommon\bin\IPCommon.pdb
+D:\BKITraining IPCore\SourceCode\IPCommon\bin\IPCommon.xml
+D:\BKITraining IPCore\SourceCode\IPCommon\bin\C1.Common.dll
+D:\BKITraining IPCore\SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\BKITraining IPCore\SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.dll
+D:\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalDecisions.ReportSource.dll
+D:\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalDecisions.Shared.dll
+D:\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalDecisions.Web.dll
+D:\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalDecisions.Windows.Forms.dll
+D:\BKITraining IPCore\SourceCode\IPCommon\bin\CrystalReportPluginLib.dll
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton2.resources
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton3.resources
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlClock.resources
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgButtonYes_No_Cancel.resources
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBtn_Yes_No.resources
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.DataGrid_Custom.resources
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.f370_REPORT_VIEW.resources
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmEditText.resources
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmIcons.resources
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchDate.resources
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchNumeric.resources
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchString.resources
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_Yes_No.resources
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxFormYes_No_Cancel.resources
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_OK.resources
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IPCommon.vbproj.GenerateResource.Cache
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IPCommon.dll
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IPCommon.xml
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IPCommon.pdb
+D:\BKITraining IPCore\SourceCode\IPCommon\obj\Debug\IPCommon.vbprojResolveAssemblyReference.cache

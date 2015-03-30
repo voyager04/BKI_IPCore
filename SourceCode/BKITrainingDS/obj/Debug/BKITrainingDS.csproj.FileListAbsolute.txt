@@ -1,0 +1,23 @@
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingDS\obj\Debug\ResolveAssemblyReference.cache
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingDS\bin\Debug\BKITrainingDS.dll.config
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingDS\bin\Debug\BKITrainingDS.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingDS\bin\Debug\BKITrainingDS.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingDS\obj\Debug\BKITrainingDS.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingDS\obj\Debug\BKITrainingDS.pdb
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingDS\bin\Debug\BKITrainingDS.dll.config
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingDS\bin\Debug\BKITrainingDS.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingDS\bin\Debug\BKITrainingDS.pdb
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingDS\obj\Debug\ResolveAssemblyReference.cache
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingDS\obj\Debug\BKITrainingDS.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingDS\obj\Debug\BKITrainingDS.pdb
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingDS\bin\Debug\BKITrainingDS.dll.config
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingDS\bin\Debug\BKITrainingDS.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingDS\bin\Debug\BKITrainingDS.pdb
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingDS\obj\Debug\BKITrainingDS.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingDS\obj\Debug\BKITrainingDS.pdb
+D:\BKITraining IPCore\SourceCode\BKITrainingDS\bin\Debug\BKITrainingDS.dll.config
+D:\BKITraining IPCore\SourceCode\BKITrainingDS\bin\Debug\BKITrainingDS.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingDS\bin\Debug\BKITrainingDS.pdb
+D:\BKITraining IPCore\SourceCode\BKITrainingDS\obj\Debug\BKITrainingDS.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingDS\obj\Debug\BKITrainingDS.pdb
+D:\BKITraining IPCore\SourceCode\BKITrainingDS\obj\Debug\BKITrainingDS.csprojResolveAssemblyReference.cache

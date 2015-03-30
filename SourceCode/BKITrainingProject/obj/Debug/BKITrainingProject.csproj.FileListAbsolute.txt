@@ -1,0 +1,228 @@
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\C1.Common.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\C1.Win.C1Input.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\Interop.Excel.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\Interop.Office.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\Interop.Word.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPBusinessService.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPCommon.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPData.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPExcelReport.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPException.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPSystemAdmin.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPUserService.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\mcombobox.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\mscorcfg.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\SiSButton.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\SiSMenu.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPBusinessService.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPBusinessService.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPCommon.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPCommon.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPData.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPData.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPExcelReport.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPExcelReport.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPException.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPException.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPSystemAdmin.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPSystemAdmin.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPUserService.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\IPUserService.xml
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\obj\Debug\ResolveAssemblyReference.cache
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\obj\Debug\BKITrainingMain.f001_main_form.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\obj\Debug\BKITrainingForm.f003_tu_test.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\obj\Debug\BKITrainingForm.f004_tu_test_de.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\obj\Debug\BKITrainingForm.f005_bkindex_members.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\obj\Debug\BKITrainingMain.f200_danh_sach_lop_ipcore.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\obj\Debug\BKITrainingForm.frm002_test_de.resources
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\BKITraining.exe.config
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\BKITraining.exe
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\BKITraining.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\obj\Debug\BKITraining.exe.licenses
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\obj\Debug\BKITraining.exe
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\obj\Debug\BKITraining.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\BKITrainingDS.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\BKITrainingUS.dll
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\BKITrainingDS.pdb
+E:\0. TRAINING\0. Training IP Core TrainingIntegraDocument\Tai lieu hoc tap\23. TRAINING INTEGRA NET\SourceCode\BKITrainingProject\bin\Debug\BKITrainingUS.pdb
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITraining.exe.config
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITraining.exe
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITraining.pdb
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITraining.exe
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITraining.pdb
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITrainingDS.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITrainingUS.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\C1.Common.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\C1.Win.C1Input.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\Interop.Excel.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\Interop.Office.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\Interop.Word.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPBusinessService.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPCommon.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPData.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPExcelReport.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPException.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPSystemAdmin.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPUserService.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\mcombobox.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\mscorcfg.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\SiSButton.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\SiSMenu.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\CrystalDecisions.Shared.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITrainingDS.pdb
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITrainingUS.pdb
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPBusinessService.pdb
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPBusinessService.xml
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPCommon.pdb
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPCommon.xml
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPData.pdb
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPData.xml
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPExcelReport.pdb
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPExcelReport.xml
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPException.pdb
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPException.xml
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPSystemAdmin.pdb
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPSystemAdmin.xml
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPUserService.pdb
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPUserService.xml
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\ResolveAssemblyReference.cache
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingMain.f001_main_form.resources
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingForm.f003_tu_test.resources
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingForm.f004_tu_test_de.resources
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingForm.f005_bkindex_members.resources
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingMain.f200_danh_sach_lop_ipcore.resources
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingForm.frm002_test_de.resources
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\ResGen.read.1.tlog
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\ResGen.write.1.tlog
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITraining.exe.licenses
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingMain.frm400_ANHLT_TEST.resources
+D:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingMain.frm401_ANHLT_TEST_DE.resources
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITraining.exe.config
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITraining.exe
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITraining.pdb
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITraining.exe
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITraining.pdb
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITrainingDS.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITrainingUS.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\C1.Common.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\C1.Win.C1Input.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\Interop.Excel.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\Interop.Office.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\Interop.Word.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPBusinessService.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPCommon.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPData.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPExcelReport.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPException.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPSystemAdmin.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPUserService.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\mcombobox.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\SiSButton.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\SiSMenu.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\CrystalDecisions.Shared.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITrainingDS.pdb
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITrainingUS.pdb
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPBusinessService.pdb
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPBusinessService.xml
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPCommon.pdb
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPCommon.xml
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPData.pdb
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPData.xml
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPExcelReport.pdb
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPExcelReport.xml
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPException.pdb
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPException.xml
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPSystemAdmin.pdb
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPSystemAdmin.xml
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPUserService.pdb
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPUserService.xml
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingProject.csprojResolveAssemblyReference.cache
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingMain.f001_main_form.resources
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingForm.f003_tu_test.resources
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingForm.f004_tu_test_de.resources
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingForm.f005_bkindex_members.resources
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingMain.f200_danh_sach_lop_ipcore.resources
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingForm.frm002_test_de.resources
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingMain.frm400_ANHLT_TEST.resources
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingMain.frm401_ANHLT_TEST_DE.resources
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingProject.csproj.GenerateResource.Cache
+E:\BKI\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITraining.exe.licenses
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITraining.exe.config
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITraining.exe
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITraining.pdb
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITrainingDS.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITrainingUS.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\C1.Common.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\C1.Win.C1Input.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\Interop.Excel.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\Interop.Office.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\Interop.Word.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPBusinessService.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPCommon.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPData.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPExcelReport.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPException.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPSystemAdmin.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPUserService.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\mcombobox.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\SiSButton.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\SiSMenu.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\CrystalDecisions.Shared.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITrainingDS.pdb
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\BKITrainingUS.pdb
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPBusinessService.pdb
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPBusinessService.xml
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPCommon.pdb
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPCommon.xml
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPData.pdb
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPData.xml
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPExcelReport.pdb
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPExcelReport.xml
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPException.pdb
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPException.xml
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPSystemAdmin.pdb
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPSystemAdmin.xml
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPUserService.pdb
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\bin\Debug\IPUserService.xml
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingProject.csprojResolveAssemblyReference.cache
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingMain.f001_main_form.resources
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingForm.f003_tu_test.resources
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingForm.f004_tu_test_de.resources
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingForm.f005_bkindex_members.resources
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingMain.f200_danh_sach_lop_ipcore.resources
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingForm.frm002_test_de.resources
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingMain.frm400_ANHLT_TEST.resources
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingMain.frm401_ANHLT_TEST_DE.resources
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingProject.csproj.GenerateResource.Cache
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITraining.exe.licenses
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITraining.exe
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITraining.pdb
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingMain.F002_DM_SINH_VIEN_DE.resources
+D:\BKITraining IPCore\SourceCode\BKITrainingProject\obj\Debug\BKITrainingMain.F001_DM_SINH_VIEN.resources

@@ -1,0 +1,6 @@
+C:\TU_WORK\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\bin\Debug\AuctionDS.dll.config
+C:\TU_WORK\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\bin\Debug\AuctionDS.dll
+C:\TU_WORK\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\bin\Debug\AuctionDS.pdb
+C:\TU_WORK\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\obj\Debug\ResolveAssemblyReference.cache
+C:\TU_WORK\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\obj\Debug\AuctionDS.dll
+C:\TU_WORK\23. TRAINING INTEGRA NET\SourceCode\AuctionDS\obj\Debug\AuctionDS.pdb

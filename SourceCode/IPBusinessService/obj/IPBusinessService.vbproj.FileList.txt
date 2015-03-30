@@ -1,0 +1,10 @@
+bin\IPBusinessService.dll
+bin\IPBusinessService.pdb
+bin\IPBusinessService.xml
+bin\IPException.dll
+bin\IPException.pdb
+bin\IPException.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\IPBusinessService.dll
+obj\Debug\IPBusinessService.xml
+obj\Debug\IPBusinessService.pdb
