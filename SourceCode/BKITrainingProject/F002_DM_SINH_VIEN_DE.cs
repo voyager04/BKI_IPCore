@@ -107,19 +107,9 @@ namespace BKITrainingMain
         /// </summary>
         private void form_2_us_object()
         {
-            for (int i = 0; i < m_us_dm_sinh_vien.strMA_SV.Length; i++)
-            {
-                if (m_txt_ma_sv.Text == m_us_dm_sinh_vien.strMA_SV)
-                {
-                    MessageBox.Show("Mã sinh viên không được trùng nhau!",
-                          "Thông báo",
-                          MessageBoxButtons.OK,
-                         MessageBoxIcon.Exclamation,
-                         MessageBoxDefaultButton.Button1);
-                }
-                else
-                    m_us_dm_sinh_vien.strMA_SV = m_txt_ma_sv.Text;
-            }
+          
+               
+            m_us_dm_sinh_vien.strMA_SV = m_txt_ma_sv.Text;
             m_us_dm_sinh_vien.strHO_TEN = m_txt_ho_ten.Text;
             m_us_dm_sinh_vien.strGIOI_TINH = m_cbx_gioitinh.Text;
             // birthday khong luu gio nen ta phai .Date

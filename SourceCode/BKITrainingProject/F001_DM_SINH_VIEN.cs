@@ -267,7 +267,7 @@ namespace BKITrainingMain
 			Hashtable v_htb = new Hashtable();
 			v_htb.Add(DM_SINH_VIEN.HO_TEN, e_col_Number.HO_TEN);
 			v_htb.Add(DM_SINH_VIEN.MA_SV, e_col_Number.MA_SV);
-			//v_htb.Add(DM_SINH_VIEN.ID, e_col_Number.ID);
+			v_htb.Add(DM_SINH_VIEN.ID, e_col_Number.ID);
 			v_htb.Add(DM_SINH_VIEN.GIOI_TINH, e_col_Number.GIOI_TINH);
 			v_htb.Add(DM_SINH_VIEN.NGAY_SINH, e_col_Number.NGAY_SINH);
 									
