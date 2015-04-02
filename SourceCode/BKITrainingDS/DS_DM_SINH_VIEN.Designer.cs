@@ -468,7 +468,6 @@ namespace BKITrainingDS {
                 this.columnID.AutoIncrementSeed = -1;
                 this.columnID.AutoIncrementStep = -1;
                 this.columnID.AllowDBNull = false;
-                this.columnID.ReadOnly = true;
                 this.columnID.Unique = true;
                 this.columnMA_SV.MaxLength = 15;
                 this.columnHO_TEN.MaxLength = 50;
@@ -918,8 +917,8 @@ namespace BKITrainingDS.DS_DM_SINH_VIENTableAdapters {
             this._adapter.InsertCommand = new global::System.Data.SqlClient.SqlCommand();
             this._adapter.InsertCommand.Connection = this.Connection;
             this._adapter.InsertCommand.CommandText = "INSERT INTO [dbo].[DM_SINH_VIEN] ([MA_SV], [HO_TEN], [NGAY_SINH], [GIOI_TINH]) VA" +
-                "LUES (@MA_SV, @HO_TEN, @NGAY_SINH, @GIOI_TINH);\r\nSELECT ID, MA_SV, HO_TEN, NGAY_" +
-                "SINH, GIOI_TINH FROM DM_SINH_VIEN WHERE (ID = SCOPE_IDENTITY())";
+                "LUES (@MA_SV, @HO_TEN, @NGAY_SINH, @GIOI_TINH);\nSELECT ID, MA_SV, HO_TEN, NGAY_S" +
+                "INH, GIOI_TINH FROM DM_SINH_VIEN WHERE (ID = SCOPE_IDENTITY())";
             this._adapter.InsertCommand.CommandType = global::System.Data.CommandType.Text;
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@MA_SV", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "MA_SV", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@HO_TEN", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "HO_TEN", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));

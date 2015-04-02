@@ -20,7 +20,6 @@ using IP.Core.IPUserService;
 using BKITrainingDS;
 using BKITrainingUS;
 using BKITrainingDS.CDBNames;
-
 namespace BKITrainingMain
 {
 
@@ -35,16 +34,14 @@ namespace BKITrainingMain
 		internal SIS.Controls.Button.SiSButton m_cmd_update;
 		internal SIS.Controls.Button.SiSButton m_cmd_insert;
         internal SIS.Controls.Button.SiSButton m_cmd_exit;
-        private Button m_cmd_search_ho_ten;
-        private TextBox m_txt_ho_ten;
         private Button m_cmd_search_ma_sv;
-        private TextBox m_txt_ma_sv;
+        private TextBox m_txt_ho_ten;
 		private System.ComponentModel.IContainer components;
 
 		public F001_DM_SINH_VIEN()
 		{
 			//
-			// Required for Windows Form Designer support
+			// Required for Windows Form Designer supportom
 			//
 			InitializeComponent();
 
@@ -80,10 +77,8 @@ namespace BKITrainingMain
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(F001_DM_SINH_VIEN));
             this.ImageList = new System.Windows.Forms.ImageList(this.components);
             this.m_pnl_out_place_dm = new System.Windows.Forms.Panel();
-            this.m_cmd_search_ho_ten = new System.Windows.Forms.Button();
-            this.m_txt_ho_ten = new System.Windows.Forms.TextBox();
             this.m_cmd_search_ma_sv = new System.Windows.Forms.Button();
-            this.m_txt_ma_sv = new System.Windows.Forms.TextBox();
+            this.m_txt_ho_ten = new System.Windows.Forms.TextBox();
             this.m_cmd_insert = new SIS.Controls.Button.SiSButton();
             this.m_cmd_update = new SIS.Controls.Button.SiSButton();
             this.m_cmd_delete = new SIS.Controls.Button.SiSButton();
@@ -122,10 +117,8 @@ namespace BKITrainingMain
             // 
             // m_pnl_out_place_dm
             // 
-            this.m_pnl_out_place_dm.Controls.Add(this.m_cmd_search_ho_ten);
-            this.m_pnl_out_place_dm.Controls.Add(this.m_txt_ho_ten);
             this.m_pnl_out_place_dm.Controls.Add(this.m_cmd_search_ma_sv);
-            this.m_pnl_out_place_dm.Controls.Add(this.m_txt_ma_sv);
+            this.m_pnl_out_place_dm.Controls.Add(this.m_txt_ho_ten);
             this.m_pnl_out_place_dm.Controls.Add(this.m_cmd_insert);
             this.m_pnl_out_place_dm.Controls.Add(this.m_cmd_update);
             this.m_pnl_out_place_dm.Controls.Add(this.m_cmd_delete);
@@ -137,39 +130,23 @@ namespace BKITrainingMain
             this.m_pnl_out_place_dm.Size = new System.Drawing.Size(807, 36);
             this.m_pnl_out_place_dm.TabIndex = 19;
             // 
-            // m_cmd_search_ho_ten
-            // 
-            this.m_cmd_search_ho_ten.Location = new System.Drawing.Point(351, 7);
-            this.m_cmd_search_ho_ten.Name = "m_cmd_search_ho_ten";
-            this.m_cmd_search_ho_ten.Size = new System.Drawing.Size(94, 23);
-            this.m_cmd_search_ho_ten.TabIndex = 16;
-            this.m_cmd_search_ho_ten.Text = "Tìm theo Họ tên";
-            this.m_cmd_search_ho_ten.UseVisualStyleBackColor = true;
-            this.m_cmd_search_ho_ten.Click += new System.EventHandler(this.m_cmd_search_ho_ten_Click);
-            // 
-            // m_txt_ho_ten
-            // 
-            this.m_txt_ho_ten.Location = new System.Drawing.Point(224, 9);
-            this.m_txt_ho_ten.Name = "m_txt_ho_ten";
-            this.m_txt_ho_ten.Size = new System.Drawing.Size(121, 20);
-            this.m_txt_ho_ten.TabIndex = 15;
-            // 
             // m_cmd_search_ma_sv
             // 
-            this.m_cmd_search_ma_sv.Location = new System.Drawing.Point(120, 4);
+            this.m_cmd_search_ma_sv.Location = new System.Drawing.Point(347, 6);
             this.m_cmd_search_ma_sv.Name = "m_cmd_search_ma_sv";
             this.m_cmd_search_ma_sv.Size = new System.Drawing.Size(98, 23);
             this.m_cmd_search_ma_sv.TabIndex = 16;
-            this.m_cmd_search_ma_sv.Text = "Tìm theo mã SV";
+            this.m_cmd_search_ma_sv.Text = "Tìm kiếm";
             this.m_cmd_search_ma_sv.UseVisualStyleBackColor = true;
             this.m_cmd_search_ma_sv.Click += new System.EventHandler(this.m_cmd_search_ma_sv_Click);
             // 
-            // m_txt_ma_sv
+            // m_txt_ho_ten
             // 
-            this.m_txt_ma_sv.Location = new System.Drawing.Point(7, 6);
-            this.m_txt_ma_sv.Name = "m_txt_ma_sv";
-            this.m_txt_ma_sv.Size = new System.Drawing.Size(107, 20);
-            this.m_txt_ma_sv.TabIndex = 15;
+            this.m_txt_ho_ten.Location = new System.Drawing.Point(7, 6);
+            this.m_txt_ho_ten.Name = "m_txt_ho_ten";
+            this.m_txt_ho_ten.Size = new System.Drawing.Size(334, 20);
+            this.m_txt_ho_ten.TabIndex = 15;
+            this.m_txt_ho_ten.TextChanged += new System.EventHandler(this.m_txt_ma_sv_TextChanged);
             // 
             // m_cmd_insert
             // 
@@ -296,7 +273,7 @@ namespace BKITrainingMain
 			Hashtable v_htb = new Hashtable();
 			v_htb.Add(DM_SINH_VIEN.HO_TEN, e_col_Number.HO_TEN);
 			v_htb.Add(DM_SINH_VIEN.MA_SV, e_col_Number.MA_SV);
-			//v_htb.Add(DM_SINH_VIEN.ID, e_col_Number.ID);
+			v_htb.Add(DM_SINH_VIEN.ID, e_col_Number.ID);
 			v_htb.Add(DM_SINH_VIEN.GIOI_TINH, e_col_Number.GIOI_TINH);
 			v_htb.Add(DM_SINH_VIEN.NGAY_SINH, e_col_Number.NGAY_SINH);
 									
@@ -304,8 +281,9 @@ namespace BKITrainingMain
 			return v_obj_trans;			
 		}
 		private void load_data_2_grid(){						
-			m_ds = new DS_DM_SINH_VIEN();			
-			m_us.FillDataset(m_ds);
+			m_ds = new DS_DM_SINH_VIEN();
+            m_us.fillDatasetSearchByMaSV(m_ds, m_txt_ho_ten.Text.Trim()); 
+
 			m_fg.Redraw = false;
 			CGridUtils.Dataset2C1Grid(m_ds, m_fg, m_obj_trans);
 			m_fg.Redraw = true;
@@ -364,29 +342,24 @@ namespace BKITrainingMain
 		}
         private void search_str_ma_sv() 
         {
-            DS_DM_SINH_VIEN v_ds = new DS_DM_SINH_VIEN();
-            US_DM_SINH_VIEN v_us = new US_DM_SINH_VIEN();
-            v_us.fillDatasetSearchByMaSV(v_ds, m_txt_ma_sv.Text.Trim());
-           
+            m_ds=new DS_DM_SINH_VIEN();
+            m_us.fillDatasetSearchByMaSV(m_ds, m_txt_ho_ten.Text.Trim());
+            
             if (!CGridUtils.IsThere_Any_NonFixed_Row(m_fg)) return;
             if (!CGridUtils.isValid_NonFixed_RowIndex(m_fg, m_fg.Row)) return;
-            us_object2grid(v_us, m_fg.Row);
             F002_DM_SINH_VIEN_DE v_fDE = new F002_DM_SINH_VIEN_DE();
-            v_fDE.display_for_update(v_us);
-            load_data_2_grid();
+            v_fDE.display(m_us);
         }
         private void search_str_ho_ten()
         {
-            DS_DM_SINH_VIEN v_ds = new DS_DM_SINH_VIEN();
-            US_DM_SINH_VIEN v_us = new US_DM_SINH_VIEN();
-            v_us.fillDatasetSearchName(v_ds, m_txt_ho_ten.Text.Trim());
+            DS_DM_SINH_VIEN m_ds = new DS_DM_SINH_VIEN();
+            US_DM_SINH_VIEN m_us = new US_DM_SINH_VIEN();
+            m_us.fillDatasetSearchName(m_ds, m_txt_ho_ten.Text.Trim());
 
             if (!CGridUtils.IsThere_Any_NonFixed_Row(m_fg)) return;
             if (!CGridUtils.isValid_NonFixed_RowIndex(m_fg, m_fg.Row)) return;
-            us_object2grid(v_us, m_fg.Row);
             F002_DM_SINH_VIEN_DE v_fDE = new F002_DM_SINH_VIEN_DE();
-            v_fDE.display_for_update(v_us);
-            load_data_2_grid();
+            v_fDE.display(m_us);
         }
 
 		private void view_dm_sinh_vien(){			
@@ -402,6 +375,11 @@ namespace BKITrainingMain
 			m_cmd_update.Click += new EventHandler(m_cmd_update_Click);
 			m_cmd_delete.Click += new EventHandler(m_cmd_delete_Click);
 		}
+        public void DStoUS(DS_DM_SINH_VIEN m_ds) 
+        {
+            US_DM_SINH_VIEN m_us = new US_DM_SINH_VIEN();
+            
+        } 
 		#endregion
 
 //
@@ -459,7 +437,7 @@ namespace BKITrainingMain
         {
             try
             {
-                search_str_ma_sv();
+                load_data_2_grid();
             }
             catch (Exception v_e)
             {
@@ -468,17 +446,11 @@ namespace BKITrainingMain
             }
         }
 
-        private void m_cmd_search_ho_ten_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                search_str_ho_ten();
-            }
-            catch (Exception v_e)
-            {
+        
 
-                CSystemLog_301.ExceptionHandle(v_e);
-            }
+        private void m_txt_ma_sv_TextChanged(object sender, EventArgs e)
+        {
+            m_cmd_search_ma_sv_Click(null, null);
         }
 
 	}

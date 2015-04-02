@@ -81,6 +81,8 @@ namespace BKITrainingMain
                 case DataEntryFormMode.UpdateDataState:
                     us_object_2_form();
                     break;
+                case DataEntryFormMode.ViewDataState: us_object_2_form();
+                    break;
             }
         }
         /// <summary>
@@ -150,7 +152,7 @@ namespace BKITrainingMain
             {
                 if (v_ds.DM_SINH_VIEN.Count > 0)
                 {
-                    MessageBox.Show("Không nhập mã sinh viên đã trùng!");
+                    BaseMessages.MsgBox_Infor("Không nhập mã sinh viên đã trùng!");
                     ip_txt_validate.Focus();
                     return false;
                 }
@@ -169,7 +171,7 @@ namespace BKITrainingMain
                     }
                     else
                     {
-                        MessageBox.Show("Không nhập mã sinh viên đã trùng!");
+                        BaseMessages.MsgBox_Infor("Không nhập mã sinh viên đã trùng!");
                         ip_txt_validate.Focus();
                         return false;
                     }
