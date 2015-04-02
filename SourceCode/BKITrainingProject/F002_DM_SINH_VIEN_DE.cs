@@ -1,4 +1,4 @@
-﻿    using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,7 +8,8 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using IP.Core.IPCommon;
 using BKITrainingUS;
-
+using BKITrainingDS;
+using BKITrainingDS.CDBNames;
 namespace BKITrainingMain
 {
     public partial class F002_DM_SINH_VIEN_DE : Form
@@ -38,7 +39,7 @@ namespace BKITrainingMain
         /// <param name="ip_us_dm_sinh_vien"></param>
         public void display_for_update(US_DM_SINH_VIEN ip_us_sinh_vien)
         {
-             m_us_dm_sinh_vien = ip_us_sinh_vien;
+            m_us_dm_sinh_vien = ip_us_sinh_vien;
             m_e_form_mode = DataEntryFormMode.UpdateDataState;
             this.ShowDialog();
         }
@@ -90,8 +91,12 @@ namespace BKITrainingMain
 
         private bool check_data_is_ok()
         {
-            
+
             if (!CValidateTextBox.IsValid(m_txt_ma_sv, DataType.StringType, allowNull.NO, true))
+            {
+                return false;
+            }
+            if (!check_validate_unique_ma_sinh_vien(m_us_dm_sinh_vien,m_txt_ma_sv))
             {
                 return false;
             }
@@ -107,11 +112,9 @@ namespace BKITrainingMain
         /// </summary>
         private void form_2_us_object()
         {
-          
-               
-            m_us_dm_sinh_vien.strMA_SV = m_txt_ma_sv.Text;
-            m_us_dm_sinh_vien.strHO_TEN = m_txt_ho_ten.Text;
-            m_us_dm_sinh_vien.strGIOI_TINH = m_cbx_gioitinh.Text;
+            m_us_dm_sinh_vien.strMA_SV = m_txt_ma_sv.Text.Trim();
+            m_us_dm_sinh_vien.strHO_TEN = m_txt_ho_ten.Text.Trim();
+            m_us_dm_sinh_vien.strGIOI_TINH = m_cbx_gioitinh.Text.Trim();
             // birthday khong luu gio nen ta phai .Date
             m_us_dm_sinh_vien.datNGAY_SINH = m_dat_ngay_sinh.Value.Date;
         }
@@ -133,6 +136,43 @@ namespace BKITrainingMain
             }
             BaseMessages.MsgBox_Infor("Dữ liệu đã được cập nhât!");
             this.Close();
+        }
+        private bool check_validate_unique_ma_sinh_vien(US_DM_SINH_VIEN ip_us_dm_sinh_vien, TextBox ip_txt_validate)
+        {
+            DS_DM_SINH_VIEN v_ds = new DS_DM_SINH_VIEN();
+            new US_DM_SINH_VIEN().FillDatasetSearchByMSSV(v_ds, ip_us_dm_sinh_vien.strMA_SV);
+            if (m_e_form_mode==DataEntryFormMode.InsertDataState)
+            {
+                if (v_ds.DM_SINH_VIEN.Count > 0)
+                {
+                    MessageBox.Show("Không nhập mã sinh viên đã trùng!");
+                    ip_txt_validate.Focus();
+                    return false;
+                }
+            }
+            else if (m_e_form_mode==DataEntryFormMode.UpdateDataState)
+            {
+                /*
+                 * Khi sua thong tin sinh vien, neu mssv moi = mssv cu thi ok
+                 * else, Neu ma giong mssv cua cac ban ghi khac thi return false;
+                 */
+                if (v_ds.DM_SINH_VIEN.Count > 0)
+                {
+                    if (v_ds.Tables[0].Rows[0][DM_SINH_VIEN.MA_SV].ToString() == ip_us_dm_sinh_vien.strMA_SV)
+                    {
+                        return true;
+                    }
+                    else
+                    {
+                        MessageBox.Show("Không nhập mã sinh viên đã trùng!");
+                        ip_txt_validate.Focus();
+                        return false;
+                    }
+                    
+                }
+            }
+            
+            return true;
         }
         #endregion
 
