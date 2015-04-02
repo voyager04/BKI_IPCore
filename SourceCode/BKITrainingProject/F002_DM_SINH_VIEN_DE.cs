@@ -118,11 +118,16 @@ namespace BKITrainingMain
             // birthday khong luu gio nen ta phai .Date
             m_us_dm_sinh_vien.datNGAY_SINH = m_dat_ngay_sinh.Value.Date;
         }
+        private void form_2_us_object_ma_sv() 
+        {
+            m_us_dm_sinh_vien.strMA_SV = m_txt_ma_sv.Text.Trim();
+        }
         /// <summary>
         /// Đây là phương thức dùng để save dữ liệu
         /// </summary>
         private void save_data()
         {
+            form_2_us_object_ma_sv();
             if (check_data_is_ok() == false) return;
             form_2_us_object();
             switch (m_e_form_mode)
@@ -139,8 +144,8 @@ namespace BKITrainingMain
         }
         private bool check_validate_unique_ma_sinh_vien(US_DM_SINH_VIEN ip_us_dm_sinh_vien, TextBox ip_txt_validate)
         {
-            DS_DM_SINH_VIEN v_ds = new DS_DM_SINH_VIEN();
-            new US_DM_SINH_VIEN().FillDatasetSearchByMSSV(v_ds, ip_us_dm_sinh_vien.strMA_SV);
+            DS_DM_SINH_VIEN v_ds = new DS_DM_SINH_VIEN();                                       //khởi tạo dataset
+            new US_DM_SINH_VIEN().FillDatasetSearchByMSSV(v_ds, ip_us_dm_sinh_vien.strMA_SV);   
             if (m_e_form_mode==DataEntryFormMode.InsertDataState)
             {
                 if (v_ds.DM_SINH_VIEN.Count > 0)
