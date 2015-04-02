@@ -151,19 +151,24 @@ public class US_DM_SINH_VIEN : US_Object
 		this.FillDatasetByCommand(pm_objDS, v_cmdSQL);
 		pm_objDR = getRowClone(pm_objDS.Tables[pm_strTableName].Rows[0]);
 	}
-    /* public void FillDatasetSearch(DS_DM_SINH_VIEN sv_ds, string i_str_search)
-    {
-        CStoredProc v_sp = new CStoredProc("pr_DM_SINH_VIEN_Check");
-        v_sp.addNVarcharInputParam("@m_ma_sv", i_str_search);
-        v_sp.fillDataSetByCommand(this, sv_ds);
-    }*/
-#endregion
-
     public void FillDatasetSearchByMSSV(DS_DM_SINH_VIEN op_ds, string ip_str_mssv)
     {
         CStoredProc v_sp = new CStoredProc("pr_DM_SINH_VIEN_Check");
         v_sp.addNVarcharInputParam("@ip_str_mssv", ip_str_mssv);
         v_sp.fillDataSetByCommand(this, op_ds);
     }
+    public void fillDatasetSearchByMaSV(DS_DM_SINH_VIEN op_ds, string ip_str_mssv)
+    {
+        CStoredProc v_sp = new CStoredProc("pr_DM_SINH_VIEN_SEARCH_MA_SV");
+        v_sp.addNVarcharInputParam("@ip_str_mssv", ip_str_mssv);
+        v_sp.fillDataSetByCommand(this, op_ds);
+    }
+    public void fillDatasetSearchName(DS_DM_SINH_VIEN op_ds, string ip_str_hoten)
+    {
+        CStoredProc v_sp = new CStoredProc("pr_DM_SINH_VIEN_SEARCH_HO_TEN");
+        v_sp.addNVarcharInputParam("@ip_str_hoten", ip_str_hoten);
+        v_sp.fillDataSetByCommand(this, op_ds);
+    }
+#endregion
 }
 }

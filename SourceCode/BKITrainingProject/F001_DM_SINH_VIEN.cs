@@ -35,9 +35,9 @@ namespace BKITrainingMain
 		internal SIS.Controls.Button.SiSButton m_cmd_update;
 		internal SIS.Controls.Button.SiSButton m_cmd_insert;
         internal SIS.Controls.Button.SiSButton m_cmd_exit;
-        private Button button2;
+        private Button m_cmd_search_ho_ten;
         private TextBox m_txt_ho_ten;
-        private Button button1;
+        private Button m_cmd_search_ma_sv;
         private TextBox m_txt_ma_sv;
 		private System.ComponentModel.IContainer components;
 
@@ -80,15 +80,15 @@ namespace BKITrainingMain
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(F001_DM_SINH_VIEN));
             this.ImageList = new System.Windows.Forms.ImageList(this.components);
             this.m_pnl_out_place_dm = new System.Windows.Forms.Panel();
+            this.m_cmd_search_ho_ten = new System.Windows.Forms.Button();
+            this.m_txt_ho_ten = new System.Windows.Forms.TextBox();
+            this.m_cmd_search_ma_sv = new System.Windows.Forms.Button();
+            this.m_txt_ma_sv = new System.Windows.Forms.TextBox();
             this.m_cmd_insert = new SIS.Controls.Button.SiSButton();
             this.m_cmd_update = new SIS.Controls.Button.SiSButton();
             this.m_cmd_delete = new SIS.Controls.Button.SiSButton();
             this.m_cmd_exit = new SIS.Controls.Button.SiSButton();
             this.m_fg = new C1.Win.C1FlexGrid.C1FlexGrid();
-            this.m_txt_ma_sv = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.m_txt_ho_ten = new System.Windows.Forms.TextBox();
-            this.button2 = new System.Windows.Forms.Button();
             this.m_pnl_out_place_dm.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.m_fg)).BeginInit();
             this.SuspendLayout();
@@ -122,9 +122,9 @@ namespace BKITrainingMain
             // 
             // m_pnl_out_place_dm
             // 
-            this.m_pnl_out_place_dm.Controls.Add(this.button2);
+            this.m_pnl_out_place_dm.Controls.Add(this.m_cmd_search_ho_ten);
             this.m_pnl_out_place_dm.Controls.Add(this.m_txt_ho_ten);
-            this.m_pnl_out_place_dm.Controls.Add(this.button1);
+            this.m_pnl_out_place_dm.Controls.Add(this.m_cmd_search_ma_sv);
             this.m_pnl_out_place_dm.Controls.Add(this.m_txt_ma_sv);
             this.m_pnl_out_place_dm.Controls.Add(this.m_cmd_insert);
             this.m_pnl_out_place_dm.Controls.Add(this.m_cmd_update);
@@ -136,6 +136,40 @@ namespace BKITrainingMain
             this.m_pnl_out_place_dm.Padding = new System.Windows.Forms.Padding(4);
             this.m_pnl_out_place_dm.Size = new System.Drawing.Size(807, 36);
             this.m_pnl_out_place_dm.TabIndex = 19;
+            // 
+            // m_cmd_search_ho_ten
+            // 
+            this.m_cmd_search_ho_ten.Location = new System.Drawing.Point(351, 7);
+            this.m_cmd_search_ho_ten.Name = "m_cmd_search_ho_ten";
+            this.m_cmd_search_ho_ten.Size = new System.Drawing.Size(94, 23);
+            this.m_cmd_search_ho_ten.TabIndex = 16;
+            this.m_cmd_search_ho_ten.Text = "Tìm theo Họ tên";
+            this.m_cmd_search_ho_ten.UseVisualStyleBackColor = true;
+            this.m_cmd_search_ho_ten.Click += new System.EventHandler(this.m_cmd_search_ho_ten_Click);
+            // 
+            // m_txt_ho_ten
+            // 
+            this.m_txt_ho_ten.Location = new System.Drawing.Point(224, 9);
+            this.m_txt_ho_ten.Name = "m_txt_ho_ten";
+            this.m_txt_ho_ten.Size = new System.Drawing.Size(121, 20);
+            this.m_txt_ho_ten.TabIndex = 15;
+            // 
+            // m_cmd_search_ma_sv
+            // 
+            this.m_cmd_search_ma_sv.Location = new System.Drawing.Point(120, 4);
+            this.m_cmd_search_ma_sv.Name = "m_cmd_search_ma_sv";
+            this.m_cmd_search_ma_sv.Size = new System.Drawing.Size(98, 23);
+            this.m_cmd_search_ma_sv.TabIndex = 16;
+            this.m_cmd_search_ma_sv.Text = "Tìm theo mã SV";
+            this.m_cmd_search_ma_sv.UseVisualStyleBackColor = true;
+            this.m_cmd_search_ma_sv.Click += new System.EventHandler(this.m_cmd_search_ma_sv_Click);
+            // 
+            // m_txt_ma_sv
+            // 
+            this.m_txt_ma_sv.Location = new System.Drawing.Point(7, 6);
+            this.m_txt_ma_sv.Name = "m_txt_ma_sv";
+            this.m_txt_ma_sv.Size = new System.Drawing.Size(107, 20);
+            this.m_txt_ma_sv.TabIndex = 15;
             // 
             // m_cmd_insert
             // 
@@ -206,38 +240,6 @@ namespace BKITrainingMain
             this.m_fg.Size = new System.Drawing.Size(807, 314);
             this.m_fg.Styles = new C1.Win.C1FlexGrid.CellStyleCollection(resources.GetString("m_fg.Styles"));
             this.m_fg.TabIndex = 20;
-            // 
-            // m_txt_ma_sv
-            // 
-            this.m_txt_ma_sv.Location = new System.Drawing.Point(7, 6);
-            this.m_txt_ma_sv.Name = "m_txt_ma_sv";
-            this.m_txt_ma_sv.Size = new System.Drawing.Size(107, 20);
-            this.m_txt_ma_sv.TabIndex = 15;
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(120, 4);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(98, 23);
-            this.button1.TabIndex = 16;
-            this.button1.Text = "Tìm theo mã SV";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // m_txt_ho_ten
-            // 
-            this.m_txt_ho_ten.Location = new System.Drawing.Point(224, 9);
-            this.m_txt_ho_ten.Name = "m_txt_ho_ten";
-            this.m_txt_ho_ten.Size = new System.Drawing.Size(121, 20);
-            this.m_txt_ho_ten.TabIndex = 15;
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(351, 7);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(94, 23);
-            this.button2.TabIndex = 16;
-            this.button2.Text = "Tìm theo Họ tên";
-            this.button2.UseVisualStyleBackColor = true;
             // 
             // F001_DM_SINH_VIEN
             // 
@@ -325,7 +327,7 @@ namespace BKITrainingMain
 			i_us.Me2DataRow(v_dr);
 			m_obj_trans.DataRow2GridRow(v_dr, i_grid_row);
 		}
-
+        
 		private void insert_dm_sinh_vien(){			
 			F002_DM_SINH_VIEN_DE v_fDE = new  F002_DM_SINH_VIEN_DE();								
 			v_fDE.display_for_insert();
@@ -360,6 +362,32 @@ namespace BKITrainingMain
 				v_objErrHandler.showErrorMessage();
 			}
 		}
+        private void search_str_ma_sv() 
+        {
+            DS_DM_SINH_VIEN v_ds = new DS_DM_SINH_VIEN();
+            US_DM_SINH_VIEN v_us = new US_DM_SINH_VIEN();
+            v_us.fillDatasetSearchByMaSV(v_ds, m_txt_ma_sv.Text.Trim());
+           
+            if (!CGridUtils.IsThere_Any_NonFixed_Row(m_fg)) return;
+            if (!CGridUtils.isValid_NonFixed_RowIndex(m_fg, m_fg.Row)) return;
+            us_object2grid(v_us, m_fg.Row);
+            F002_DM_SINH_VIEN_DE v_fDE = new F002_DM_SINH_VIEN_DE();
+            v_fDE.display_for_update(v_us);
+            load_data_2_grid();
+        }
+        private void search_str_ho_ten()
+        {
+            DS_DM_SINH_VIEN v_ds = new DS_DM_SINH_VIEN();
+            US_DM_SINH_VIEN v_us = new US_DM_SINH_VIEN();
+            v_us.fillDatasetSearchName(v_ds, m_txt_ho_ten.Text.Trim());
+
+            if (!CGridUtils.IsThere_Any_NonFixed_Row(m_fg)) return;
+            if (!CGridUtils.isValid_NonFixed_RowIndex(m_fg, m_fg.Row)) return;
+            us_object2grid(v_us, m_fg.Row);
+            F002_DM_SINH_VIEN_DE v_fDE = new F002_DM_SINH_VIEN_DE();
+            v_fDE.display_for_update(v_us);
+            load_data_2_grid();
+        }
 
 		private void view_dm_sinh_vien(){			
 			if (!CGridUtils.IsThere_Any_NonFixed_Row(m_fg)) return;
@@ -426,6 +454,32 @@ namespace BKITrainingMain
 				CSystemLog_301.ExceptionHandle(v_e);
 			}
 		}
+
+        private void m_cmd_search_ma_sv_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                search_str_ma_sv();
+            }
+            catch (Exception v_e)
+            {
+
+                CSystemLog_301.ExceptionHandle(v_e);
+            }
+        }
+
+        private void m_cmd_search_ho_ten_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                search_str_ho_ten();
+            }
+            catch (Exception v_e)
+            {
+
+                CSystemLog_301.ExceptionHandle(v_e);
+            }
+        }
 
 	}
 }
