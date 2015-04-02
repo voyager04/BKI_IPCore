@@ -163,7 +163,7 @@ namespace BKITrainingMain
                  */
                 if (v_ds.DM_SINH_VIEN.Count > 0)
                 {
-                    if (v_ds.Tables[0].Rows[0][DM_SINH_VIEN.MA_SV].ToString() == ip_us_dm_sinh_vien.strMA_SV)
+                    if (v_ds.Tables[0].Rows[0][DM_SINH_VIEN.MA_SV].ToString() != ip_us_dm_sinh_vien.strMA_SV)
                     {
                         return true;
                     }
