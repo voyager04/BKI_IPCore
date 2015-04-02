@@ -216,10 +216,7 @@ namespace BKITrainingMain
 
 		#region Data Structure
 		private enum e_col_Number{
-			MA_LOP = 2
-,ID = 1
-,TEN_LOP = 3
-
+			MA_LOP = 2,ID = 1,TEN_LOP = 3
 		}			
 		#endregion
 
@@ -242,10 +239,7 @@ namespace BKITrainingMain
 		}	
 		private ITransferDataRow get_trans_object(C1.Win.C1FlexGrid.C1FlexGrid i_fg){
 			Hashtable v_htb = new Hashtable();
-			v_htb.Add(DM_LOP_HOC.MA_LOP, e_col_Number.MA_LOP);
-			v_htb.Add(DM_LOP_HOC.ID, e_col_Number.ID);
-			v_htb.Add(DM_LOP_HOC.TEN_LOP, e_col_Number.TEN_LOP);
-									
+			v_htb.Add(DM_LOP_HOC.MA_LOP, e_col_Number.MA_LOP);			v_htb.Add(DM_LOP_HOC.ID, e_col_Number.ID);			v_htb.Add(DM_LOP_HOC.TEN_LOP, e_col_Number.TEN_LOP);									
 			ITransferDataRow v_obj_trans = new CC1TransferDataRow(i_fg,v_htb,m_ds.DM_LOP_HOC.NewRow());
 			return v_obj_trans;			
 		}
@@ -256,8 +250,8 @@ namespace BKITrainingMain
 			CGridUtils.Dataset2C1Grid(m_ds, m_fg, m_obj_trans);
 			m_fg.Redraw = true;
 		}
-		private void grid2us_object(US_DM_LOP_HOC i_us, int i_grid_row) 
-        {
+		private void grid2us_object(US_DM_LOP_HOC i_us
+			, int i_grid_row) {
 			DataRow v_dr;
 			v_dr = (DataRow) m_fg.Rows[i_grid_row].UserData;
 			m_obj_trans.GridRow2DataRow(i_grid_row,v_dr);
@@ -274,8 +268,8 @@ namespace BKITrainingMain
 
 
 		private void insert_dm_lop_hoc(){			
-		    F003_DM_LOP_HOC_DE v_fDE = new  F003_DM_LOP_HOC_DE();								
-			v_fDE.display_for_insert();
+		//	F003_DM_LOP_HOC_DE v_fDE = new  F003_DM_LOP_HOC_DE();								
+		//	v_fDE.display();
 			load_data_2_grid();
 		}
 
@@ -283,8 +277,8 @@ namespace BKITrainingMain
 			if (!CGridUtils.IsThere_Any_NonFixed_Row(m_fg)) return;
 			if (!CGridUtils.isValid_NonFixed_RowIndex(m_fg, m_fg.Row)) return;			
 			grid2us_object(m_us, m_fg.Row);
-			F003_DM_LOP_HOC_DE v_fDE = new F003_DM_LOP_HOC_DE();
-			v_fDE.display_for_update(m_us);
+		//	F003_DM_LOP_HOC_DE v_fDE = new F003_DM_LOP_HOC_DE();
+		//	v_fDE.display(m_us);
 			load_data_2_grid();
 		}
 				
@@ -312,8 +306,8 @@ namespace BKITrainingMain
 			if (!CGridUtils.IsThere_Any_NonFixed_Row(m_fg)) return;
 			if (!CGridUtils.isValid_NonFixed_RowIndex(m_fg, m_fg.Row)) return;
 			grid2us_object(m_us, m_fg.Row);
-			F003_DM_LOP_HOC_DE v_fDE = new F003_DM_LOP_HOC_DE();			
-			v_fDE.display(m_us);
+		//	F003_DM_LOP_HOC_DE v_fDE = new F003_DM_LOP_HOC_DE();			
+		//	v_fDE.display(m_us);
 		}
 		private void set_define_events(){
 			m_cmd_exit.Click += new EventHandler(m_cmd_exit_Click);

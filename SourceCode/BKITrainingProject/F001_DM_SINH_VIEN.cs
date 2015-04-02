@@ -280,7 +280,8 @@ namespace BKITrainingMain
 			ITransferDataRow v_obj_trans = new CC1TransferDataRow(i_fg,v_htb,m_ds.DM_SINH_VIEN.NewRow());
 			return v_obj_trans;			
 		}
-		private void load_data_2_grid(){						
+		private void load_data_2_grid()
+        {						
 			m_ds = new DS_DM_SINH_VIEN();
             m_us.fillDatasetSearchByMaSV(m_ds, m_txt_ho_ten.Text.Trim()); 
 
@@ -340,28 +341,7 @@ namespace BKITrainingMain
 				v_objErrHandler.showErrorMessage();
 			}
 		}
-        private void search_str_ma_sv() 
-        {
-            m_ds=new DS_DM_SINH_VIEN();
-            m_us.fillDatasetSearchByMaSV(m_ds, m_txt_ho_ten.Text.Trim());
-            
-            if (!CGridUtils.IsThere_Any_NonFixed_Row(m_fg)) return;
-            if (!CGridUtils.isValid_NonFixed_RowIndex(m_fg, m_fg.Row)) return;
-            F002_DM_SINH_VIEN_DE v_fDE = new F002_DM_SINH_VIEN_DE();
-            v_fDE.display(m_us);
-        }
-        private void search_str_ho_ten()
-        {
-            DS_DM_SINH_VIEN m_ds = new DS_DM_SINH_VIEN();
-            US_DM_SINH_VIEN m_us = new US_DM_SINH_VIEN();
-            m_us.fillDatasetSearchName(m_ds, m_txt_ho_ten.Text.Trim());
-
-            if (!CGridUtils.IsThere_Any_NonFixed_Row(m_fg)) return;
-            if (!CGridUtils.isValid_NonFixed_RowIndex(m_fg, m_fg.Row)) return;
-            F002_DM_SINH_VIEN_DE v_fDE = new F002_DM_SINH_VIEN_DE();
-            v_fDE.display(m_us);
-        }
-
+       
 		private void view_dm_sinh_vien(){			
 			if (!CGridUtils.IsThere_Any_NonFixed_Row(m_fg)) return;
 			if (!CGridUtils.isValid_NonFixed_RowIndex(m_fg, m_fg.Row)) return;

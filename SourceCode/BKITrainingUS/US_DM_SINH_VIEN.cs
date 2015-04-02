@@ -163,12 +163,7 @@ public class US_DM_SINH_VIEN : US_Object
         v_sp.addNVarcharInputParam("@ip_str_mssv", ip_str_mssv);
         v_sp.fillDataSetByCommand(this, op_ds);
     }
-    public void fillDatasetSearchName(DS_DM_SINH_VIEN op_ds, string ip_str_hoten)
-    {
-        CStoredProc v_sp = new CStoredProc("pr_DM_SINH_VIEN_SEARCH_HO_TEN");
-        v_sp.addNVarcharInputParam("@ip_str_hoten", ip_str_hoten);
-        v_sp.fillDataSetByCommand(this, op_ds);
-    }
+    
 #endregion
 }
 }

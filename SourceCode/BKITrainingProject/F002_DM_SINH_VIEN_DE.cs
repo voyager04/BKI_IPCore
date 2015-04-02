@@ -81,9 +81,7 @@ namespace BKITrainingMain
                 case DataEntryFormMode.UpdateDataState:
                     us_object_2_form();
                     break;
-                case DataEntryFormMode.ViewDataState: us_object_2_form();
-                    break;
-            }
+                            }
         }
         /// <summary>
         /// kiểm tra dữ liệu ở trên form điền có đúng không?
@@ -144,7 +142,7 @@ namespace BKITrainingMain
             BaseMessages.MsgBox_Infor("Dữ liệu đã được cập nhât!");
             this.Close();
         }
-        private bool check_validate_unique_ma_sinh_vien(US_DM_SINH_VIEN ip_us_dm_sinh_vien, TextBox ip_txt_validate)
+        private bool check_validate_unique_ma_sinh_vien(US_DM_SINH_VIEN ip_us_dm_sinh_vien, TextBox ip_txt_validate )
         {
             DS_DM_SINH_VIEN v_ds = new DS_DM_SINH_VIEN();                                       //khởi tạo dataset
             new US_DM_SINH_VIEN().FillDatasetSearchByMSSV(v_ds, ip_us_dm_sinh_vien.strMA_SV);   
@@ -165,7 +163,7 @@ namespace BKITrainingMain
                  */
                 if (v_ds.DM_SINH_VIEN.Count > 0)
                 {
-                    if (v_ds.Tables[0].Rows[0][DM_SINH_VIEN.MA_SV].ToString() != ip_us_dm_sinh_vien.strMA_SV)
+                    if (v_ds.Tables[0].Rows[0][DM_SINH_VIEN.MA_SV].ToString() == ip_us_dm_sinh_vien.strMA_SV)
                     {
                         return true;
                     }
