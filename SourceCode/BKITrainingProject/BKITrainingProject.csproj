@@ -216,6 +216,12 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="F004_DM_MON_HOC_DE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F004_DM_MON_HOC_DE.Designer.cs">
+      <DependentUpon>F004_DM_MON_HOC_DE.cs</DependentUpon>
+    </Compile>
     <Compile Include="F001_DM_SINH_VIEN.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -233,6 +239,9 @@
     </Compile>
     <Compile Include="F003_DM_LOP_HOC_DE.Designer.cs">
       <DependentUpon>F003_DM_LOP_HOC_DE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F004_DM_MON_HOC.cs">
+      <SubType>Form</SubType>
     </Compile>
     <Compile Include="frm400_ANHLT_TEST.cs">
       <SubType>Form</SubType>
@@ -297,6 +306,9 @@
     <Compile Include="frm002_test_de.Designer.cs">
       <DependentUpon>frm002_test_de.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="F004_DM_MON_HOC_DE.resx">
+      <DependentUpon>F004_DM_MON_HOC_DE.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="F001_DM_SINH_VIEN.resx">
       <DependentUpon>F001_DM_SINH_VIEN.cs</DependentUpon>
     </EmbeddedResource>
@@ -316,6 +328,9 @@
     <EmbeddedResource Include="f003_tu_test.resx">
       <SubType>Designer</SubType>
       <DependentUpon>f003_tu_test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F004_DM_MON_HOC.resx">
+      <DependentUpon>F004_DM_MON_HOC.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="f004_tu_test_de.resx">
       <SubType>Designer</SubType>

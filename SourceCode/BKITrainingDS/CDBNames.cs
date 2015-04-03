@@ -19,6 +19,13 @@ namespace BKITrainingDS.CDBNames
         public const string MA_LOP = "MA_LOP";
         public const string TEN_LOP = "TEN_LOP";
     }
+    public class DM_MON_HOC
+    {
+        public const string ID = "ID";
+        public const string MA_MON = "MA_MON";
+        public const string TEN_MON = "TEN_MON";
+        public const string SO_TIN_CHI = "SO_TIN_CHI";
+    }
     public class TEST
     {
         public const string ID = "ID";

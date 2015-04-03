@@ -132,6 +132,7 @@
     <Compile Include="US_BKINDEX_MEMBERS.cs" />
     <Compile Include="US_DM_LOP_HOC.cs" />
     <Compile Include="US_DM_LOP_IPCORE.cs" />
+    <Compile Include="US_DM_MON_HOC.cs" />
     <Compile Include="US_DM_SINH_VIEN.cs" />
     <Compile Include="US_TEST.cs" />
     <Compile Include="US_TU_TEST.cs" />
