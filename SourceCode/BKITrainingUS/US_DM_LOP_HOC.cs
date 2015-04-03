@@ -108,6 +108,20 @@ public class US_DM_LOP_HOC : US_Object
 		this.FillDatasetByCommand(pm_objDS, v_cmdSQL);
 		pm_objDR = getRowClone(pm_objDS.Tables[pm_strTableName].Rows[0]);
 	}
+    public void FillDatasetSearchByMaLop(DS_DM_LOP_HOC op_ds, string ip_str_ma_lop)
+    {
+        CStoredProc v_sp = new CStoredProc("pr_DM_LOP_HOC_Check");
+        v_sp.addNVarcharInputParam("@ip_str_ma_lop", ip_str_ma_lop);
+        v_sp.fillDataSetByCommand(this, op_ds);
+    }
+   
 #endregion
+
+    public void fillDatasetSearch(DS_DM_LOP_HOC op_ds, string ip_str_search)
+    {
+        CStoredProc v_sp = new CStoredProc("pr_DM_LOP_HOC_Search");
+        v_sp.addNVarcharInputParam("@ip_str_search", ip_str_search);
+        v_sp.fillDataSetByCommand(this, op_ds);
+    }
 }
 }

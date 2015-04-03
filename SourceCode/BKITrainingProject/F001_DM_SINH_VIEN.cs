@@ -142,11 +142,12 @@ namespace BKITrainingMain
             // 
             // m_txt_ho_ten
             // 
+            this.m_txt_ho_ten.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
             this.m_txt_ho_ten.Location = new System.Drawing.Point(7, 6);
             this.m_txt_ho_ten.Name = "m_txt_ho_ten";
             this.m_txt_ho_ten.Size = new System.Drawing.Size(334, 20);
             this.m_txt_ho_ten.TabIndex = 15;
-            this.m_txt_ho_ten.TextChanged += new System.EventHandler(this.m_txt_ma_sv_TextChanged);
+  //        this.m_txt_ho_ten.TextChanged += new System.EventHandler(this.m_txt_ma_sv_TextChanged);
             // 
             // m_cmd_insert
             // 
@@ -428,11 +429,11 @@ namespace BKITrainingMain
 
         
 
-        private void m_txt_ma_sv_TextChanged(object sender, EventArgs e)
+     /*   private void m_txt_ma_sv_TextChanged(object sender, EventArgs e)
         {
             m_cmd_search_ma_sv_Click(null, null);
         }
-
+     */   
 	}
 }
 

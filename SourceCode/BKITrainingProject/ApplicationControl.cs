@@ -35,7 +35,7 @@ namespace BKITrainingMain
 				v_frm_main.Dispose();*/
 
 
-                f001_main_form v_frm_main = new f001_main_form();
+               f001_main_form v_frm_main = new f001_main_form();
 				v_frm_main.display();
 				v_frm_main.Dispose();
                 

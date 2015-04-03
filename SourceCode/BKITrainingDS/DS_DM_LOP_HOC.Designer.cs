@@ -379,10 +379,10 @@ namespace BKITrainingDS {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public DM_LOP_HOCRow AddDM_LOP_HOCRow(decimal ID, string MA_LOP, string TEN_LOP) {
+            public DM_LOP_HOCRow AddDM_LOP_HOCRow(string MA_LOP, string TEN_LOP) {
                 DM_LOP_HOCRow rowDM_LOP_HOCRow = ((DM_LOP_HOCRow)(this.NewRow()));
                 object[] columnValuesArray = new object[] {
-                        ID,
+                        null,
                         MA_LOP,
                         TEN_LOP};
                 rowDM_LOP_HOCRow.ItemArray = columnValuesArray;
@@ -436,10 +436,14 @@ namespace BKITrainingDS {
                 base.Columns.Add(this.columnTEN_LOP);
                 this.Constraints.Add(new global::System.Data.UniqueConstraint("Constraint1", new global::System.Data.DataColumn[] {
                                 this.columnID}, true));
+                this.columnID.AutoIncrement = true;
+                this.columnID.AutoIncrementSeed = -1;
+                this.columnID.AutoIncrementStep = -1;
                 this.columnID.AllowDBNull = false;
+                this.columnID.ReadOnly = true;
                 this.columnID.Unique = true;
                 this.columnMA_LOP.MaxLength = 15;
-                this.columnTEN_LOP.MaxLength = 50;
+                this.columnTEN_LOP.MaxLength = 15;
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -824,18 +828,16 @@ namespace BKITrainingDS.DS_DM_LOP_HOCTableAdapters {
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Original_TEN_LOP", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "TEN_LOP", global::System.Data.DataRowVersion.Original, false, null, "", "", ""));
             this._adapter.InsertCommand = new global::System.Data.SqlClient.SqlCommand();
             this._adapter.InsertCommand.Connection = this.Connection;
-            this._adapter.InsertCommand.CommandText = "INSERT INTO [dbo].[DM_LOP_HOC] ([ID], [MA_LOP], [TEN_LOP]) VALUES (@ID, @MA_LOP, " +
-                "@TEN_LOP);\r\nSELECT ID, MA_LOP, TEN_LOP FROM DM_LOP_HOC WHERE (ID = @ID)";
+            this._adapter.InsertCommand.CommandText = "INSERT INTO [dbo].[DM_LOP_HOC] ([MA_LOP], [TEN_LOP]) VALUES (@MA_LOP, @TEN_LOP);\r" +
+                "\nSELECT ID, MA_LOP, TEN_LOP FROM DM_LOP_HOC WHERE (ID = SCOPE_IDENTITY())";
             this._adapter.InsertCommand.CommandType = global::System.Data.CommandType.Text;
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@ID", global::System.Data.SqlDbType.Decimal, 0, global::System.Data.ParameterDirection.Input, 18, 0, "ID", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@MA_LOP", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "MA_LOP", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@TEN_LOP", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "TEN_LOP", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.UpdateCommand = new global::System.Data.SqlClient.SqlCommand();
             this._adapter.UpdateCommand.Connection = this.Connection;
-            this._adapter.UpdateCommand.CommandText = @"UPDATE [dbo].[DM_LOP_HOC] SET [ID] = @ID, [MA_LOP] = @MA_LOP, [TEN_LOP] = @TEN_LOP WHERE (([ID] = @Original_ID) AND ((@IsNull_MA_LOP = 1 AND [MA_LOP] IS NULL) OR ([MA_LOP] = @Original_MA_LOP)) AND ((@IsNull_TEN_LOP = 1 AND [TEN_LOP] IS NULL) OR ([TEN_LOP] = @Original_TEN_LOP)));
+            this._adapter.UpdateCommand.CommandText = @"UPDATE [dbo].[DM_LOP_HOC] SET [MA_LOP] = @MA_LOP, [TEN_LOP] = @TEN_LOP WHERE (([ID] = @Original_ID) AND ((@IsNull_MA_LOP = 1 AND [MA_LOP] IS NULL) OR ([MA_LOP] = @Original_MA_LOP)) AND ((@IsNull_TEN_LOP = 1 AND [TEN_LOP] IS NULL) OR ([TEN_LOP] = @Original_TEN_LOP)));
 SELECT ID, MA_LOP, TEN_LOP FROM DM_LOP_HOC WHERE (ID = @ID)";
             this._adapter.UpdateCommand.CommandType = global::System.Data.CommandType.Text;
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@ID", global::System.Data.SqlDbType.Decimal, 0, global::System.Data.ParameterDirection.Input, 18, 0, "ID", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@MA_LOP", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "MA_LOP", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@TEN_LOP", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "TEN_LOP", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Original_ID", global::System.Data.SqlDbType.Decimal, 0, global::System.Data.ParameterDirection.Input, 18, 0, "ID", global::System.Data.DataRowVersion.Original, false, null, "", "", ""));
@@ -843,6 +845,7 @@ SELECT ID, MA_LOP, TEN_LOP FROM DM_LOP_HOC WHERE (ID = @ID)";
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Original_MA_LOP", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "MA_LOP", global::System.Data.DataRowVersion.Original, false, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@IsNull_TEN_LOP", global::System.Data.SqlDbType.Int, 0, global::System.Data.ParameterDirection.Input, 0, 0, "TEN_LOP", global::System.Data.DataRowVersion.Original, true, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Original_TEN_LOP", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "TEN_LOP", global::System.Data.DataRowVersion.Original, false, null, "", "", ""));
+            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@ID", global::System.Data.SqlDbType.Decimal, 9, global::System.Data.ParameterDirection.Input, 18, 0, "ID", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -957,19 +960,18 @@ SELECT ID, MA_LOP, TEN_LOP FROM DM_LOP_HOC WHERE (ID = @ID)";
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
         [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Insert, true)]
-        public virtual int Insert(decimal ID, string MA_LOP, string TEN_LOP) {
-            this.Adapter.InsertCommand.Parameters[0].Value = ((decimal)(ID));
+        public virtual int Insert(string MA_LOP, string TEN_LOP) {
             if ((MA_LOP == null)) {
+                this.Adapter.InsertCommand.Parameters[0].Value = global::System.DBNull.Value;
+            }
+            else {
+                this.Adapter.InsertCommand.Parameters[0].Value = ((string)(MA_LOP));
+            }
+            if ((TEN_LOP == null)) {
                 this.Adapter.InsertCommand.Parameters[1].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.InsertCommand.Parameters[1].Value = ((string)(MA_LOP));
-            }
-            if ((TEN_LOP == null)) {
-                this.Adapter.InsertCommand.Parameters[2].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.InsertCommand.Parameters[2].Value = ((string)(TEN_LOP));
+                this.Adapter.InsertCommand.Parameters[1].Value = ((string)(TEN_LOP));
             }
             global::System.Data.ConnectionState previousConnectionState = this.Adapter.InsertCommand.Connection.State;
             if (((this.Adapter.InsertCommand.Connection.State & global::System.Data.ConnectionState.Open) 
@@ -991,37 +993,37 @@ SELECT ID, MA_LOP, TEN_LOP FROM DM_LOP_HOC WHERE (ID = @ID)";
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
         [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Update, true)]
-        public virtual int Update(decimal ID, string MA_LOP, string TEN_LOP, decimal Original_ID, string Original_MA_LOP, string Original_TEN_LOP) {
-            this.Adapter.UpdateCommand.Parameters[0].Value = ((decimal)(ID));
+        public virtual int Update(string MA_LOP, string TEN_LOP, decimal Original_ID, string Original_MA_LOP, string Original_TEN_LOP, decimal ID) {
             if ((MA_LOP == null)) {
+                this.Adapter.UpdateCommand.Parameters[0].Value = global::System.DBNull.Value;
+            }
+            else {
+                this.Adapter.UpdateCommand.Parameters[0].Value = ((string)(MA_LOP));
+            }
+            if ((TEN_LOP == null)) {
                 this.Adapter.UpdateCommand.Parameters[1].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.UpdateCommand.Parameters[1].Value = ((string)(MA_LOP));
+                this.Adapter.UpdateCommand.Parameters[1].Value = ((string)(TEN_LOP));
             }
-            if ((TEN_LOP == null)) {
-                this.Adapter.UpdateCommand.Parameters[2].Value = global::System.DBNull.Value;
-            }
-            else {
-                this.Adapter.UpdateCommand.Parameters[2].Value = ((string)(TEN_LOP));
-            }
-            this.Adapter.UpdateCommand.Parameters[3].Value = ((decimal)(Original_ID));
+            this.Adapter.UpdateCommand.Parameters[2].Value = ((decimal)(Original_ID));
             if ((Original_MA_LOP == null)) {
-                this.Adapter.UpdateCommand.Parameters[4].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[5].Value = global::System.DBNull.Value;
+                this.Adapter.UpdateCommand.Parameters[3].Value = ((object)(1));
+                this.Adapter.UpdateCommand.Parameters[4].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.UpdateCommand.Parameters[4].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[5].Value = ((string)(Original_MA_LOP));
+                this.Adapter.UpdateCommand.Parameters[3].Value = ((object)(0));
+                this.Adapter.UpdateCommand.Parameters[4].Value = ((string)(Original_MA_LOP));
             }
             if ((Original_TEN_LOP == null)) {
-                this.Adapter.UpdateCommand.Parameters[6].Value = ((object)(1));
-                this.Adapter.UpdateCommand.Parameters[7].Value = global::System.DBNull.Value;
+                this.Adapter.UpdateCommand.Parameters[5].Value = ((object)(1));
+                this.Adapter.UpdateCommand.Parameters[6].Value = global::System.DBNull.Value;
             }
             else {
-                this.Adapter.UpdateCommand.Parameters[6].Value = ((object)(0));
-                this.Adapter.UpdateCommand.Parameters[7].Value = ((string)(Original_TEN_LOP));
+                this.Adapter.UpdateCommand.Parameters[5].Value = ((object)(0));
+                this.Adapter.UpdateCommand.Parameters[6].Value = ((string)(Original_TEN_LOP));
             }
+            this.Adapter.UpdateCommand.Parameters[7].Value = ((decimal)(ID));
             global::System.Data.ConnectionState previousConnectionState = this.Adapter.UpdateCommand.Connection.State;
             if (((this.Adapter.UpdateCommand.Connection.State & global::System.Data.ConnectionState.Open) 
                         != global::System.Data.ConnectionState.Open)) {
@@ -1043,7 +1045,7 @@ SELECT ID, MA_LOP, TEN_LOP FROM DM_LOP_HOC WHERE (ID = @ID)";
         [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
         [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Update, true)]
         public virtual int Update(string MA_LOP, string TEN_LOP, decimal Original_ID, string Original_MA_LOP, string Original_TEN_LOP) {
-            return this.Update(Original_ID, MA_LOP, TEN_LOP, Original_ID, Original_MA_LOP, Original_TEN_LOP);
+            return this.Update(MA_LOP, TEN_LOP, Original_ID, Original_MA_LOP, Original_TEN_LOP, Original_ID);
         }
     }
     

@@ -228,6 +228,12 @@
     <Compile Include="F003_DM_LOP_HOC.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="F003_DM_LOP_HOC_DE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F003_DM_LOP_HOC_DE.Designer.cs">
+      <DependentUpon>F003_DM_LOP_HOC_DE.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm400_ANHLT_TEST.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -303,6 +309,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="F003_DM_LOP_HOC.resx">
       <DependentUpon>F003_DM_LOP_HOC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F003_DM_LOP_HOC_DE.resx">
+      <DependentUpon>F003_DM_LOP_HOC_DE.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="f003_tu_test.resx">
       <SubType>Designer</SubType>
