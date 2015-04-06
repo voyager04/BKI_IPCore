@@ -78,13 +78,13 @@ namespace BKITrainingMain
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(F004_DM_MON_HOC));
             this.ImageList = new System.Windows.Forms.ImageList(this.components);
             this.m_pnl_out_place_dm = new System.Windows.Forms.Panel();
+            this.m_cmd_search_Click = new System.Windows.Forms.Button();
+            this.m_txt_search = new System.Windows.Forms.TextBox();
             this.m_cmd_insert = new SIS.Controls.Button.SiSButton();
             this.m_cmd_update = new SIS.Controls.Button.SiSButton();
             this.m_cmd_delete = new SIS.Controls.Button.SiSButton();
             this.m_cmd_exit = new SIS.Controls.Button.SiSButton();
             this.m_fg = new C1.Win.C1FlexGrid.C1FlexGrid();
-            this.m_txt_search = new System.Windows.Forms.TextBox();
-            this.m_cmd_search_Click = new System.Windows.Forms.Button();
             this.m_pnl_out_place_dm.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.m_fg)).BeginInit();
             this.SuspendLayout();
@@ -130,6 +130,23 @@ namespace BKITrainingMain
             this.m_pnl_out_place_dm.Padding = new System.Windows.Forms.Padding(4);
             this.m_pnl_out_place_dm.Size = new System.Drawing.Size(686, 36);
             this.m_pnl_out_place_dm.TabIndex = 19;
+            // 
+            // m_cmd_search_Click
+            // 
+            this.m_cmd_search_Click.Location = new System.Drawing.Point(234, 7);
+            this.m_cmd_search_Click.Name = "m_cmd_search_Click";
+            this.m_cmd_search_Click.Size = new System.Drawing.Size(90, 23);
+            this.m_cmd_search_Click.TabIndex = 17;
+            this.m_cmd_search_Click.Text = "Tìm kiếm";
+            this.m_cmd_search_Click.UseVisualStyleBackColor = true;
+            this.m_cmd_search_Click.Click += new System.EventHandler(this.m_cmd_search_Click_Click);
+            // 
+            // m_txt_search
+            // 
+            this.m_txt_search.Location = new System.Drawing.Point(7, 8);
+            this.m_txt_search.Name = "m_txt_search";
+            this.m_txt_search.Size = new System.Drawing.Size(220, 20);
+            this.m_txt_search.TabIndex = 16;
             // 
             // m_cmd_insert
             // 
@@ -201,22 +218,6 @@ namespace BKITrainingMain
             this.m_fg.Styles = new C1.Win.C1FlexGrid.CellStyleCollection(resources.GetString("m_fg.Styles"));
             this.m_fg.TabIndex = 20;
             // 
-            // m_txt_search
-            // 
-            this.m_txt_search.Location = new System.Drawing.Point(7, 8);
-            this.m_txt_search.Name = "m_txt_search";
-            this.m_txt_search.Size = new System.Drawing.Size(220, 20);
-            this.m_txt_search.TabIndex = 16;
-            // 
-            // m_cmd_search_Click
-            // 
-            this.m_cmd_search_Click.Location = new System.Drawing.Point(234, 7);
-            this.m_cmd_search_Click.Name = "m_cmd_search_Click";
-            this.m_cmd_search_Click.Size = new System.Drawing.Size(90, 23);
-            this.m_cmd_search_Click.TabIndex = 17;
-            this.m_cmd_search_Click.Text = "Tìm kiếm";
-            this.m_cmd_search_Click.UseVisualStyleBackColor = true;
-            // 
             // F004_DM_MON_HOC
             // 
             this.AutoScaleBaseSize = new System.Drawing.Size(5, 13);
@@ -264,7 +265,8 @@ namespace BKITrainingMain
 		}
 		private void set_initial_form_load(){						
 			m_obj_trans = get_trans_object(m_fg);
-			load_data_2_grid();		
+			load_data_2_grid();
+            hint_data_on_textbox_search();
 		}	
 		private ITransferDataRow get_trans_object(C1.Win.C1FlexGrid.C1FlexGrid i_fg){
 			Hashtable v_htb = new Hashtable();
@@ -276,9 +278,22 @@ namespace BKITrainingMain
 			ITransferDataRow v_obj_trans = new CC1TransferDataRow(i_fg,v_htb,m_ds.DM_MON_HOC.NewRow());
 			return v_obj_trans;			
 		}
-		private void load_data_2_grid(){						
+        private void hint_data_on_textbox_search()
+        {
+            m_txt_search.AutoCompleteMode = AutoCompleteMode.Suggest;
+            m_txt_search.AutoCompleteSource = AutoCompleteSource.CustomSource;
+            AutoCompleteStringCollection m_dc = new AutoCompleteStringCollection();
+            foreach (DataRow row in m_ds.DM_MON_HOC)
+            {
+                m_dc.Add(row[DM_MON_HOC.MA_MON].ToString());
+                m_dc.Add(row[DM_MON_HOC.TEN_MON].ToString());
+                m_dc.Add(row[DM_MON_HOC.SO_TIN_CHI].ToString());
+            }
+            m_txt_search.AutoCompleteCustomSource = m_dc;
+        }
+        private void load_data_2_grid(){						
 			m_ds = new DS_DM_MON_HOC();			
-			m_us.FillDataset(m_ds);
+			m_us.fillDatasetSearch(m_ds, m_txt_search.Text.Trim());
 			m_fg.Redraw = false;
 			CGridUtils.Dataset2C1Grid(m_ds, m_fg, m_obj_trans);
 			m_fg.Redraw = true;
@@ -400,17 +415,20 @@ namespace BKITrainingMain
 			catch (Exception v_e){
 				CSystemLog_301.ExceptionHandle(v_e);
 			}
-		}
+        }
+        private void m_cmd_search_Click_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                load_data_2_grid();
+            }
+            catch (Exception v_e)
+            {
+                CSystemLog_301.ExceptionHandle(v_e);
 
-		private void m_cmd_view_Click(object sender, EventArgs e) {
-			try{
-				view_dm_mon_hoc();
-			}
-			catch (Exception v_e){
-				CSystemLog_301.ExceptionHandle(v_e);
-			}
-		}
+            }
+        }
 
-	}
+    }
 }
 

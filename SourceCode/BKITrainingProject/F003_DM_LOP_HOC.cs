@@ -143,6 +143,8 @@ namespace BKITrainingMain
             // 
             // m_txt_search
             // 
+            this.m_txt_search.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.m_txt_search.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
             this.m_txt_search.Location = new System.Drawing.Point(7, 6);
             this.m_txt_search.Name = "m_txt_search";
             this.m_txt_search.Size = new System.Drawing.Size(220, 20);
@@ -265,7 +267,8 @@ namespace BKITrainingMain
 		}
 		private void set_initial_form_load(){						
 			m_obj_trans = get_trans_object(m_fg);
-			load_data_2_grid();		
+			load_data_2_grid();
+            hint_data_on_textbox_search();
 		}	
 		private ITransferDataRow get_trans_object(C1.Win.C1FlexGrid.C1FlexGrid i_fg){
 			Hashtable v_htb = new Hashtable();
@@ -276,6 +279,18 @@ namespace BKITrainingMain
 			ITransferDataRow v_obj_trans = new CC1TransferDataRow(i_fg,v_htb,m_ds.DM_LOP_HOC.NewRow());
 			return v_obj_trans;			
 		}
+        private void hint_data_on_textbox_search()
+        {
+            m_txt_search.AutoCompleteMode = AutoCompleteMode.Suggest;
+            m_txt_search.AutoCompleteSource = AutoCompleteSource.CustomSource;
+            AutoCompleteStringCollection m_dc = new AutoCompleteStringCollection();
+            foreach (DataRow row in m_ds.DM_LOP_HOC)
+            {
+                m_dc.Add(row[DM_LOP_HOC.MA_LOP].ToString());
+                m_dc.Add(row[DM_LOP_HOC.TEN_LOP].ToString());
+            }
+            m_txt_search.AutoCompleteCustomSource = m_dc;
+        }
 		private void load_data_2_grid(){						
 			m_ds = new DS_DM_LOP_HOC();
             m_us.fillDatasetSearch(m_ds, m_txt_search.Text.Trim());

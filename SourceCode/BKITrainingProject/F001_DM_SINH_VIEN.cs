@@ -143,11 +143,12 @@ namespace BKITrainingMain
             // m_txt_ho_ten
             // 
             this.m_txt_ho_ten.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.m_txt_ho_ten.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
             this.m_txt_ho_ten.Location = new System.Drawing.Point(7, 6);
             this.m_txt_ho_ten.Name = "m_txt_ho_ten";
             this.m_txt_ho_ten.Size = new System.Drawing.Size(334, 20);
             this.m_txt_ho_ten.TabIndex = 15;
-  //        this.m_txt_ho_ten.TextChanged += new System.EventHandler(this.m_txt_ma_sv_TextChanged);
+            this.m_txt_ho_ten.TextChanged += new System.EventHandler(this.m_txt_ho_ten_SuggestAppend);
             // 
             // m_cmd_insert
             // 
@@ -289,9 +290,10 @@ namespace BKITrainingMain
             m_txt_ho_ten.AutoCompleteMode = AutoCompleteMode.Suggest;
             m_txt_ho_ten.AutoCompleteSource = AutoCompleteSource.CustomSource;
             AutoCompleteStringCollection m_dc =new AutoCompleteStringCollection();
-            foreach (DataRow row in m_ds.Tables[0].Rows)
+            foreach (DataRow row in m_ds.DM_SINH_VIEN)
                 {
-                    m_dc.Add(row[0].ToString());
+                    m_dc.Add(row[DM_SINH_VIEN.HO_TEN].ToString());
+                    m_dc.Add(row[DM_SINH_VIEN.MA_SV].ToString());
                 }
             m_txt_ho_ten.AutoCompleteCustomSource = m_dc;
         }
@@ -374,7 +376,7 @@ namespace BKITrainingMain
         {
             US_DM_SINH_VIEN m_us = new US_DM_SINH_VIEN();
             
-        } 
+        }
 		#endregion
 
 //
@@ -440,14 +442,19 @@ namespace BKITrainingMain
                 CSystemLog_301.ExceptionHandle(v_e);
             }
         }
-
-        
-
-     /*   private void m_txt_ma_sv_TextChanged(object sender, EventArgs e)
+        private void m_txt_ho_ten_SuggestAppend(object sender, EventArgs e)
         {
-            m_cmd_search_ma_sv_Click(null, null);
+            try
+            {
+                //hint_data_on_textbox_search();
+            }
+            catch (Exception v_e)
+            {
+
+                CSystemLog_301.ExceptionHandle(v_e);
+            }
         }
-     */   
-	}
+
+  	}
 }
 

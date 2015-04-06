@@ -147,7 +147,7 @@ namespace BKITrainingMain
             {
                 if (v_ds.DM_LOP_HOC.Count > 0)
                 {
-                    BaseMessages.MsgBox_Infor("Không nhập mã sinh viên đã trùng!");
+                    BaseMessages.MsgBox_Infor("Không nhập mã lớp đã trùng!");
                     ip_txt_validate.Focus();
                     return false;
                 }
@@ -166,7 +166,7 @@ namespace BKITrainingMain
                     }
                     else
                     {
-                        BaseMessages.MsgBox_Infor("Không nhập mã sinh viên đã trùng!");
+                        BaseMessages.MsgBox_Infor("Không nhập mã lớp đã trùng!");
                         ip_txt_validate.Focus();
                         return false;
                     }
