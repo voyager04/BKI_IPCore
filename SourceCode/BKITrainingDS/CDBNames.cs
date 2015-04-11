@@ -26,6 +26,17 @@ namespace BKITrainingDS.CDBNames
         public const string TEN_MON = "TEN_MON";
         public const string SO_TIN_CHI = "SO_TIN_CHI";
     }
+    public class V_SINH_VIEN_LOP_HOC
+    {
+        public const string ID = "ID";
+        public const string MA_SV = "MA_SV";
+        public const string HO_TEN = "HO_TEN";
+        public const string NGAY_SINH = "NGAY_SINH";
+        public const string GIOI_TINH = "GIOI_TINH";
+        public const string MA_LOP = "MA_LOP";
+        public const string TEN_LOP = "TEN_LOP";
+    }
+
     public class TEST
     {
         public const string ID = "ID";

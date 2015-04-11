@@ -136,6 +136,7 @@
     <Compile Include="US_DM_SINH_VIEN.cs" />
     <Compile Include="US_TEST.cs" />
     <Compile Include="US_TU_TEST.cs" />
+    <Compile Include="US_V_SINH_VIEN_LOP_HOC.cs" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">

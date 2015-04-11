@@ -38,6 +38,10 @@
             this.m_cmd_luu = new System.Windows.Forms.Button();
             this.m_cmd_thoat = new System.Windows.Forms.Button();
             this.m_cbx_gioitinh = new System.Windows.Forms.ComboBox();
+            this.m_lbl_ma_so_lop = new System.Windows.Forms.Label();
+            this.m_txt_ma_so_lop = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.m_txt_ten_lop = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -101,7 +105,7 @@
             // 
             // m_cmd_luu
             // 
-            this.m_cmd_luu.Location = new System.Drawing.Point(0, 220);
+            this.m_cmd_luu.Location = new System.Drawing.Point(-1, 285);
             this.m_cmd_luu.Name = "m_cmd_luu";
             this.m_cmd_luu.Size = new System.Drawing.Size(99, 41);
             this.m_cmd_luu.TabIndex = 5;
@@ -110,7 +114,7 @@
             // 
             // m_cmd_thoat
             // 
-            this.m_cmd_thoat.Location = new System.Drawing.Point(202, 220);
+            this.m_cmd_thoat.Location = new System.Drawing.Point(197, 285);
             this.m_cmd_thoat.Name = "m_cmd_thoat";
             this.m_cmd_thoat.Size = new System.Drawing.Size(85, 41);
             this.m_cmd_thoat.TabIndex = 5;
@@ -129,17 +133,53 @@
             this.m_cbx_gioitinh.Size = new System.Drawing.Size(167, 21);
             this.m_cbx_gioitinh.TabIndex = 6;
             // 
+            // m_lbl_ma_so_lop
+            // 
+            this.m_lbl_ma_so_lop.AutoSize = true;
+            this.m_lbl_ma_so_lop.Location = new System.Drawing.Point(15, 205);
+            this.m_lbl_ma_so_lop.Name = "m_lbl_ma_so_lop";
+            this.m_lbl_ma_so_lop.Size = new System.Drawing.Size(59, 13);
+            this.m_lbl_ma_so_lop.TabIndex = 1;
+            this.m_lbl_ma_so_lop.Text = "Mã Số Lớp";
+            // 
+            // m_txt_ma_so_lop
+            // 
+            this.m_txt_ma_so_lop.Location = new System.Drawing.Point(91, 202);
+            this.m_txt_ma_so_lop.Name = "m_txt_ma_so_lop";
+            this.m_txt_ma_so_lop.Size = new System.Drawing.Size(167, 20);
+            this.m_txt_ma_so_lop.TabIndex = 2;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(15, 247);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(47, 13);
+            this.label5.TabIndex = 1;
+            this.label5.Text = "Tên Lớp";
+            // 
+            // m_txt_ten_lop
+            // 
+            this.m_txt_ten_lop.Location = new System.Drawing.Point(91, 244);
+            this.m_txt_ten_lop.Name = "m_txt_ten_lop";
+            this.m_txt_ten_lop.Size = new System.Drawing.Size(167, 20);
+            this.m_txt_ten_lop.TabIndex = 2;
+            // 
             // F002_DM_SINH_VIEN_DE
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.ClientSize = new System.Drawing.Size(284, 326);
             this.Controls.Add(this.m_cbx_gioitinh);
             this.Controls.Add(this.m_cmd_thoat);
             this.Controls.Add(this.m_cmd_luu);
             this.Controls.Add(this.m_dat_ngay_sinh);
+            this.Controls.Add(this.m_txt_ten_lop);
+            this.Controls.Add(this.m_txt_ma_so_lop);
             this.Controls.Add(this.m_txt_ho_ten);
+            this.Controls.Add(this.label5);
             this.Controls.Add(this.m_txt_ma_sv);
+            this.Controls.Add(this.m_lbl_ma_so_lop);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label3);
@@ -163,5 +203,9 @@
         private System.Windows.Forms.Button m_cmd_luu;
         private System.Windows.Forms.Button m_cmd_thoat;
         private System.Windows.Forms.ComboBox m_cbx_gioitinh;
+        private System.Windows.Forms.Label m_lbl_ma_so_lop;
+        private System.Windows.Forms.TextBox m_txt_ma_so_lop;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox m_txt_ten_lop;
     }
 }

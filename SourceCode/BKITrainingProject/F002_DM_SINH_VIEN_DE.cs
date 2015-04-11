@@ -21,7 +21,7 @@ namespace BKITrainingMain
         }
 
         #region Public interface
-        public void display(US_DM_SINH_VIEN ip_us_sinh_vien)
+        public void display(US_V_SINH_VIEN_LOP_HOC ip_us_sinh_vien)
         {
             m_us_dm_sinh_vien = ip_us_sinh_vien;
             m_e_form_mode = DataEntryFormMode.ViewDataState;
@@ -37,7 +37,7 @@ namespace BKITrainingMain
         /// hiển thị form dùng để cập nhật dữ liệu
         /// </summary>
         /// <param name="ip_us_dm_sinh_vien"></param>
-        public void display_for_update(US_DM_SINH_VIEN ip_us_sinh_vien)
+        public void display_for_update(US_V_SINH_VIEN_LOP_HOC ip_us_sinh_vien)
         {
             m_us_dm_sinh_vien = ip_us_sinh_vien;
             m_e_form_mode = DataEntryFormMode.UpdateDataState;
@@ -53,7 +53,7 @@ namespace BKITrainingMain
         /// biến dùng để xác định trang thái của form
         /// </summary>
         DataEntryFormMode m_e_form_mode;
-        US_DM_SINH_VIEN m_us_dm_sinh_vien = new US_DM_SINH_VIEN();
+        US_V_SINH_VIEN_LOP_HOC m_us_dm_sinh_vien = new US_V_SINH_VIEN_LOP_HOC();
         #endregion
 
         #region Private Methods
@@ -71,6 +71,8 @@ namespace BKITrainingMain
             m_txt_ho_ten.Text = m_us_dm_sinh_vien.strHO_TEN;
             m_dat_ngay_sinh.Value = m_us_dm_sinh_vien.datNGAY_SINH;
             m_cbx_gioitinh.Text = m_us_dm_sinh_vien.strGIOI_TINH;
+            m_txt_ma_so_lop.Text = m_us_dm_sinh_vien.strMA_LOP;
+            m_txt_ten_lop.Text = m_us_dm_sinh_vien.strTEN_LOP;
         }
         private void set_inital_form_load()
         {
@@ -105,6 +107,14 @@ namespace BKITrainingMain
                 return false;
 
             }
+            if (!CValidateTextBox.IsValid(m_txt_ma_so_lop, DataType.StringType, allowNull.YES, true))
+            {
+                return false;
+            }
+            if (!CValidateTextBox.IsValid(m_txt_ten_lop, DataType.StringType, allowNull.YES, true))
+            {
+                return false;
+            }
             return true;
         }
         /// <summary>
@@ -115,6 +125,8 @@ namespace BKITrainingMain
             m_us_dm_sinh_vien.strMA_SV = m_txt_ma_sv.Text.Trim();
             m_us_dm_sinh_vien.strHO_TEN = m_txt_ho_ten.Text.Trim();
             m_us_dm_sinh_vien.strGIOI_TINH = m_cbx_gioitinh.Text.Trim();
+            m_us_dm_sinh_vien.strMA_LOP = m_txt_ma_so_lop.Text.Trim();
+            m_us_dm_sinh_vien.strTEN_LOP = m_txt_ten_lop.Text.Trim();
             // birthday khong luu gio nen ta phai .Date
             m_us_dm_sinh_vien.datNGAY_SINH = m_dat_ngay_sinh.Value.Date;
         }
@@ -142,13 +154,13 @@ namespace BKITrainingMain
             BaseMessages.MsgBox_Infor("Dữ liệu đã được cập nhât!");
             this.Close();
         }
-        private bool check_validate_unique_ma_sinh_vien(US_DM_SINH_VIEN ip_us_dm_sinh_vien, TextBox ip_txt_validate )
+        private bool check_validate_unique_ma_sinh_vien(US_V_SINH_VIEN_LOP_HOC ip_us_dm_sinh_vien, TextBox ip_txt_validate )
         {
-            DS_DM_SINH_VIEN v_ds = new DS_DM_SINH_VIEN();                                       //khởi tạo dataset
-            new US_DM_SINH_VIEN().FillDatasetSearchByMSSV(v_ds, ip_us_dm_sinh_vien.strMA_SV);   
+            DS_V_SINH_VIEN_LOP_HOC v_ds = new DS_V_SINH_VIEN_LOP_HOC();                                       //khởi tạo dataset
+            new US_V_SINH_VIEN_LOP_HOC().FillDatasetSearchByMSSV(v_ds, ip_us_dm_sinh_vien.strMA_SV);   
             if (m_e_form_mode==DataEntryFormMode.InsertDataState)
             {
-                if (v_ds.DM_SINH_VIEN.Count > 0)
+                if (v_ds.V_SINH_VIEN_LOP_HOC.Count > 0)
                 {
                     BaseMessages.MsgBox_Infor("Không nhập mã sinh viên đã trùng!");
                     ip_txt_validate.Focus();
@@ -161,9 +173,9 @@ namespace BKITrainingMain
                  * Khi sua thong tin sinh vien, neu mssv moi = mssv cu thi ok
                  * else, Neu ma giong mssv cua cac ban ghi khac thi return false;
                  */
-                if (v_ds.DM_SINH_VIEN.Count > 0)
+                if (v_ds.V_SINH_VIEN_LOP_HOC.Count > 0)
                 {
-                    if (v_ds.Tables[0].Rows[0][DM_SINH_VIEN.MA_SV].ToString() == ip_us_dm_sinh_vien.strMA_SV)
+                    if (v_ds.Tables[0].Rows[0][V_SINH_VIEN_LOP_HOC.MA_SV].ToString() == ip_us_dm_sinh_vien.strMA_SV)
                     {
                         return true;
                     }

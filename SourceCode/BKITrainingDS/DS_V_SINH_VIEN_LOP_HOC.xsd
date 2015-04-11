@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DS_V_SINH_VIEN_LOP_HOC" targetNamespace="http://tempuri.org/DS_V_SINH_VIEN_LOP_HOC.xsd" xmlns:mstns="http://tempuri.org/DS_V_SINH_VIEN_LOP_HOC.xsd" xmlns="http://tempuri.org/DS_V_SINH_VIEN_LOP_HOC.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="BKITrainingConnectionString2" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="BKITrainingConnectionString2 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.BKITrainingDS.Properties.Settings.GlobalReference.Default.BKITrainingConnectionString2" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="V_SINH_VIEN_LOP_HOCTableAdapter" GeneratorDataComponentClassName="V_SINH_VIEN_LOP_HOCTableAdapter" Name="V_SINH_VIEN_LOP_HOC" UserDataComponentName="V_SINH_VIEN_LOP_HOCTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BKITrainingConnectionString2 (Settings)" DbObjectName="BKITraining.dbo.V_SINH_VIEN_LOP_HOC" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT ID, MA_SV, HO_TEN, NGAY_SINH, GIOI_TINH, MA_LOP, TEN_LOP FROM dbo.V_SINH_VIEN_LOP_HOC</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ID" DataSetColumn="ID" />
+              <Mapping SourceColumn="MA_SV" DataSetColumn="MA_SV" />
+              <Mapping SourceColumn="HO_TEN" DataSetColumn="HO_TEN" />
+              <Mapping SourceColumn="NGAY_SINH" DataSetColumn="NGAY_SINH" />
+              <Mapping SourceColumn="GIOI_TINH" DataSetColumn="GIOI_TINH" />
+              <Mapping SourceColumn="MA_LOP" DataSetColumn="MA_LOP" />
+              <Mapping SourceColumn="TEN_LOP" DataSetColumn="TEN_LOP" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DS_V_SINH_VIEN_LOP_HOC" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DS_V_SINH_VIEN_LOP_HOC" msprop:Generator_UserDSName="DS_V_SINH_VIEN_LOP_HOC">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="V_SINH_VIEN_LOP_HOC" msprop:Generator_TableClassName="V_SINH_VIEN_LOP_HOCDataTable" msprop:Generator_TableVarName="tableV_SINH_VIEN_LOP_HOC" msprop:Generator_TablePropName="V_SINH_VIEN_LOP_HOC" msprop:Generator_RowDeletingName="V_SINH_VIEN_LOP_HOCRowDeleting" msprop:Generator_RowChangingName="V_SINH_VIEN_LOP_HOCRowChanging" msprop:Generator_RowEvHandlerName="V_SINH_VIEN_LOP_HOCRowChangeEventHandler" msprop:Generator_RowDeletedName="V_SINH_VIEN_LOP_HOCRowDeleted" msprop:Generator_UserTableName="V_SINH_VIEN_LOP_HOC" msprop:Generator_RowChangedName="V_SINH_VIEN_LOP_HOCRowChanged" msprop:Generator_RowEvArgName="V_SINH_VIEN_LOP_HOCRowChangeEvent" msprop:Generator_RowClassName="V_SINH_VIEN_LOP_HOCRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MA_SV" msprop:Generator_ColumnVarNameInTable="columnMA_SV" msprop:Generator_ColumnPropNameInRow="MA_SV" msprop:Generator_ColumnPropNameInTable="MA_SVColumn" msprop:Generator_UserColumnName="MA_SV" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="HO_TEN" msprop:Generator_ColumnVarNameInTable="columnHO_TEN" msprop:Generator_ColumnPropNameInRow="HO_TEN" msprop:Generator_ColumnPropNameInTable="HO_TENColumn" msprop:Generator_UserColumnName="HO_TEN" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NGAY_SINH" msprop:Generator_ColumnVarNameInTable="columnNGAY_SINH" msprop:Generator_ColumnPropNameInRow="NGAY_SINH" msprop:Generator_ColumnPropNameInTable="NGAY_SINHColumn" msprop:Generator_UserColumnName="NGAY_SINH" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="GIOI_TINH" msprop:Generator_ColumnVarNameInTable="columnGIOI_TINH" msprop:Generator_ColumnPropNameInRow="GIOI_TINH" msprop:Generator_ColumnPropNameInTable="GIOI_TINHColumn" msprop:Generator_UserColumnName="GIOI_TINH" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MA_LOP" msprop:Generator_ColumnVarNameInTable="columnMA_LOP" msprop:Generator_ColumnPropNameInRow="MA_LOP" msprop:Generator_ColumnPropNameInTable="MA_LOPColumn" msprop:Generator_UserColumnName="MA_LOP" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TEN_LOP" msprop:Generator_ColumnVarNameInTable="columnTEN_LOP" msprop:Generator_ColumnPropNameInRow="TEN_LOP" msprop:Generator_ColumnPropNameInTable="TEN_LOPColumn" msprop:Generator_UserColumnName="TEN_LOP" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//mstns:V_SINH_VIEN_LOP_HOC" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

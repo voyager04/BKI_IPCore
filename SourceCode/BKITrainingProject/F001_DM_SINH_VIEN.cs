@@ -35,7 +35,7 @@ namespace BKITrainingMain
 		internal SIS.Controls.Button.SiSButton m_cmd_insert;
         internal SIS.Controls.Button.SiSButton m_cmd_exit;
         private Button m_cmd_search_ma_sv;
-        private TextBox m_txt_ho_ten;
+        private TextBox m_txt_search;
 		private System.ComponentModel.IContainer components;
 
 		public F001_DM_SINH_VIEN()
@@ -78,7 +78,7 @@ namespace BKITrainingMain
             this.ImageList = new System.Windows.Forms.ImageList(this.components);
             this.m_pnl_out_place_dm = new System.Windows.Forms.Panel();
             this.m_cmd_search_ma_sv = new System.Windows.Forms.Button();
-            this.m_txt_ho_ten = new System.Windows.Forms.TextBox();
+            this.m_txt_search = new System.Windows.Forms.TextBox();
             this.m_cmd_insert = new SIS.Controls.Button.SiSButton();
             this.m_cmd_update = new SIS.Controls.Button.SiSButton();
             this.m_cmd_delete = new SIS.Controls.Button.SiSButton();
@@ -118,7 +118,7 @@ namespace BKITrainingMain
             // m_pnl_out_place_dm
             // 
             this.m_pnl_out_place_dm.Controls.Add(this.m_cmd_search_ma_sv);
-            this.m_pnl_out_place_dm.Controls.Add(this.m_txt_ho_ten);
+            this.m_pnl_out_place_dm.Controls.Add(this.m_txt_search);
             this.m_pnl_out_place_dm.Controls.Add(this.m_cmd_insert);
             this.m_pnl_out_place_dm.Controls.Add(this.m_cmd_update);
             this.m_pnl_out_place_dm.Controls.Add(this.m_cmd_delete);
@@ -132,23 +132,26 @@ namespace BKITrainingMain
             // 
             // m_cmd_search_ma_sv
             // 
-            this.m_cmd_search_ma_sv.Location = new System.Drawing.Point(347, 6);
+            this.m_cmd_search_ma_sv.Image = global::BKITraining.Properties.Resources.search1;
+            this.m_cmd_search_ma_sv.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.m_cmd_search_ma_sv.Location = new System.Drawing.Point(358, 3);
             this.m_cmd_search_ma_sv.Name = "m_cmd_search_ma_sv";
-            this.m_cmd_search_ma_sv.Size = new System.Drawing.Size(98, 23);
+            this.m_cmd_search_ma_sv.Size = new System.Drawing.Size(87, 30);
             this.m_cmd_search_ma_sv.TabIndex = 16;
             this.m_cmd_search_ma_sv.Text = "Tìm kiếm";
+            this.m_cmd_search_ma_sv.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.m_cmd_search_ma_sv.UseVisualStyleBackColor = true;
             this.m_cmd_search_ma_sv.Click += new System.EventHandler(this.m_cmd_search_ma_sv_Click);
             // 
-            // m_txt_ho_ten
+            // m_txt_search
             // 
-            this.m_txt_ho_ten.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
-            this.m_txt_ho_ten.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
-            this.m_txt_ho_ten.Location = new System.Drawing.Point(7, 6);
-            this.m_txt_ho_ten.Name = "m_txt_ho_ten";
-            this.m_txt_ho_ten.Size = new System.Drawing.Size(334, 20);
-            this.m_txt_ho_ten.TabIndex = 15;
-            this.m_txt_ho_ten.TextChanged += new System.EventHandler(this.m_txt_ho_ten_SuggestAppend);
+            this.m_txt_search.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.m_txt_search.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
+            this.m_txt_search.Location = new System.Drawing.Point(7, 6);
+            this.m_txt_search.Name = "m_txt_search";
+            this.m_txt_search.Size = new System.Drawing.Size(334, 20);
+            this.m_txt_search.TabIndex = 15;
+            this.m_txt_search.TextChanged += new System.EventHandler(this.m_txt_ho_ten_SuggestAppend);
             // 
             // m_cmd_insert
             // 
@@ -164,6 +167,7 @@ namespace BKITrainingMain
             this.m_cmd_insert.Size = new System.Drawing.Size(88, 28);
             this.m_cmd_insert.TabIndex = 12;
             this.m_cmd_insert.Text = "&Thêm";
+            this.m_cmd_insert.Click += new System.EventHandler(this.m_cmd_insert_Click_1);
             // 
             // m_cmd_update
             // 
@@ -250,6 +254,8 @@ namespace BKITrainingMain
             ,ID = 1
             ,GIOI_TINH = 5
             ,NGAY_SINH = 4
+            ,MA_LOP = 6
+            ,TEN_LOP=7
 
 		}			
 		#endregion
@@ -258,6 +264,8 @@ namespace BKITrainingMain
 		ITransferDataRow m_obj_trans;		
 		DS_DM_SINH_VIEN m_ds = new DS_DM_SINH_VIEN();
 		US_DM_SINH_VIEN m_us = new US_DM_SINH_VIEN();
+        DS_V_SINH_VIEN_LOP_HOC m_v_ds = new DS_V_SINH_VIEN_LOP_HOC();
+        US_V_SINH_VIEN_LOP_HOC m_v_us = new US_V_SINH_VIEN_LOP_HOC();
 		#endregion
 
 		#region Private Methods
@@ -276,38 +284,39 @@ namespace BKITrainingMain
 		}	
 		private ITransferDataRow get_trans_object(C1.Win.C1FlexGrid.C1FlexGrid i_fg){
 			Hashtable v_htb = new Hashtable();
-			v_htb.Add(DM_SINH_VIEN.HO_TEN, e_col_Number.HO_TEN);
-			v_htb.Add(DM_SINH_VIEN.MA_SV, e_col_Number.MA_SV);
-			v_htb.Add(DM_SINH_VIEN.ID, e_col_Number.ID);
-			v_htb.Add(DM_SINH_VIEN.GIOI_TINH, e_col_Number.GIOI_TINH);
-			v_htb.Add(DM_SINH_VIEN.NGAY_SINH, e_col_Number.NGAY_SINH);
-									
-			ITransferDataRow v_obj_trans = new CC1TransferDataRow(i_fg,v_htb,m_ds.DM_SINH_VIEN.NewRow());
+			v_htb.Add(V_SINH_VIEN_LOP_HOC.HO_TEN, e_col_Number.HO_TEN);
+			v_htb.Add(V_SINH_VIEN_LOP_HOC.MA_SV, e_col_Number.MA_SV);
+			v_htb.Add(V_SINH_VIEN_LOP_HOC.ID, e_col_Number.ID);
+			v_htb.Add(V_SINH_VIEN_LOP_HOC.GIOI_TINH, e_col_Number.GIOI_TINH);
+			v_htb.Add(V_SINH_VIEN_LOP_HOC.NGAY_SINH, e_col_Number.NGAY_SINH);
+            v_htb.Add(V_SINH_VIEN_LOP_HOC.MA_LOP, e_col_Number.MA_LOP);
+            v_htb.Add(V_SINH_VIEN_LOP_HOC.TEN_LOP, e_col_Number.TEN_LOP);			
+			ITransferDataRow v_obj_trans = new CC1TransferDataRow(i_fg,v_htb,m_v_ds.V_SINH_VIEN_LOP_HOC.NewRow());
 			return v_obj_trans;			
 		}
         private void hint_data_on_textbox_search()
         {
-            m_txt_ho_ten.AutoCompleteMode = AutoCompleteMode.Suggest;
-            m_txt_ho_ten.AutoCompleteSource = AutoCompleteSource.CustomSource;
+            m_txt_search.AutoCompleteMode = AutoCompleteMode.Suggest;
+            m_txt_search.AutoCompleteSource = AutoCompleteSource.CustomSource;
             AutoCompleteStringCollection m_dc =new AutoCompleteStringCollection();
             foreach (DataRow row in m_ds.DM_SINH_VIEN)
                 {
-                    m_dc.Add(row[DM_SINH_VIEN.HO_TEN].ToString());
-                    m_dc.Add(row[DM_SINH_VIEN.MA_SV].ToString());
+                    m_dc.Add(row[V_SINH_VIEN_LOP_HOC.HO_TEN].ToString());
+                    m_dc.Add(row[V_SINH_VIEN_LOP_HOC.MA_SV].ToString());
                 }
-            m_txt_ho_ten.AutoCompleteCustomSource = m_dc;
+            m_txt_search.AutoCompleteCustomSource = m_dc;
         }
 		private void load_data_2_grid()
         {						
-			m_ds = new DS_DM_SINH_VIEN();
-            m_us.fillDatasetSearchByMaSV(m_ds, m_txt_ho_ten.Text.Trim()); 
+			m_v_ds = new DS_V_SINH_VIEN_LOP_HOC();
+            m_v_us.fillDatasetSearchByMaSV(m_v_ds, m_txt_search.Text.Trim()); 
 
 			m_fg.Redraw = false;
-			CGridUtils.Dataset2C1Grid(m_ds, m_fg, m_obj_trans);
+			CGridUtils.Dataset2C1Grid(m_v_ds, m_fg, m_obj_trans);
 			m_fg.Redraw = true;
 		}
         //đổ data từ gridview vào us
-        private void grid2us_object(US_DM_SINH_VIEN i_us, int i_grid_row)
+        private void grid2us_object(US_V_SINH_VIEN_LOP_HOC i_us, int i_grid_row)
         {
             DataRow v_dr;
             v_dr = (DataRow)m_fg.Rows[i_grid_row].UserData;
@@ -317,7 +326,7 @@ namespace BKITrainingMain
        
 
 	     // đổ data từ us vào gridview
-		private void us_object2grid(US_DM_SINH_VIEN i_us, int i_grid_row) 
+		private void us_object2grid(US_V_SINH_VIEN_LOP_HOC i_us, int i_grid_row) 
         {
 			DataRow v_dr = (DataRow) m_fg.Rows[i_grid_row].UserData;
 			i_us.Me2DataRow(v_dr);
@@ -333,9 +342,9 @@ namespace BKITrainingMain
 		private void update_dm_sinh_vien(){			
 			if (!CGridUtils.IsThere_Any_NonFixed_Row(m_fg)) return;
 			if (!CGridUtils.isValid_NonFixed_RowIndex(m_fg, m_fg.Row)) return;			
-			grid2us_object(m_us, m_fg.Row);
+			grid2us_object(m_v_us, m_fg.Row);
 			F002_DM_SINH_VIEN_DE v_fDE = new F002_DM_SINH_VIEN_DE();
-			v_fDE.display_for_update(m_us);
+			v_fDE.display_for_update(m_v_us);
 			load_data_2_grid();
 		}
 				
@@ -343,7 +352,7 @@ namespace BKITrainingMain
 			if (!CGridUtils.IsThere_Any_NonFixed_Row(m_fg)) return;
 			if (!CGridUtils.isValid_NonFixed_RowIndex(m_fg, m_fg.Row)) return;
 			if (BaseMessages.askUser_DataCouldBeDeleted(8) != BaseMessages.IsDataCouldBeDeleted.CouldBeDeleted)  return;
-			US_DM_SINH_VIEN v_us = new US_DM_SINH_VIEN();
+			US_V_SINH_VIEN_LOP_HOC v_us = new US_V_SINH_VIEN_LOP_HOC();
 			grid2us_object(v_us, m_fg.Row);
 			try {			
 				v_us.BeginTransaction();    											
@@ -362,9 +371,9 @@ namespace BKITrainingMain
 		private void view_dm_sinh_vien(){			
 			if (!CGridUtils.IsThere_Any_NonFixed_Row(m_fg)) return;
 			if (!CGridUtils.isValid_NonFixed_RowIndex(m_fg, m_fg.Row)) return;
-			grid2us_object(m_us, m_fg.Row);
+			grid2us_object(m_v_us, m_fg.Row);
 			F002_DM_SINH_VIEN_DE v_fDE = new F002_DM_SINH_VIEN_DE();			
-			v_fDE.display(m_us);
+			v_fDE.display(m_v_us);
 		}
 		private void set_define_events(){
 			m_cmd_exit.Click += new EventHandler(m_cmd_exit_Click);
@@ -374,7 +383,7 @@ namespace BKITrainingMain
 		}
         public void DStoUS(DS_DM_SINH_VIEN m_ds) 
         {
-            US_DM_SINH_VIEN m_us = new US_DM_SINH_VIEN();
+            US_V_SINH_VIEN_LOP_HOC m_us = new US_V_SINH_VIEN_LOP_HOC();
             
         }
 		#endregion
@@ -453,6 +462,11 @@ namespace BKITrainingMain
 
                 CSystemLog_301.ExceptionHandle(v_e);
             }
+        }
+
+        private void m_cmd_insert_Click_1(object sender, EventArgs e)
+        {
+
         }
 
   	}

@@ -161,6 +161,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DS_TU_TEST.xsd</DependentUpon>
     </Compile>
+    <Compile Include="DS_V_SINH_VIEN_LOP_HOC.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_V_SINH_VIEN_LOP_HOC.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
@@ -256,6 +261,17 @@
     </None>
     <None Include="DS_TU_TEST.xss">
       <DependentUpon>DS_TU_TEST.xsd</DependentUpon>
+    </None>
+    <None Include="DS_V_SINH_VIEN_LOP_HOC.xsc">
+      <DependentUpon>DS_V_SINH_VIEN_LOP_HOC.xsd</DependentUpon>
+    </None>
+    <None Include="DS_V_SINH_VIEN_LOP_HOC.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_V_SINH_VIEN_LOP_HOC.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_V_SINH_VIEN_LOP_HOC.xss">
+      <DependentUpon>DS_V_SINH_VIEN_LOP_HOC.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

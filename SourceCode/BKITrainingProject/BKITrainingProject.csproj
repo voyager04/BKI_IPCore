@@ -216,6 +216,9 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="F003_DM_LOP_HOC_GRI.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="F004_DM_MON_HOC_DE.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -252,6 +255,22 @@
     <Compile Include="frm401_ANHLT_TEST_DE.Designer.cs">
       <DependentUpon>frm401_ANHLT_TEST_DE.cs</DependentUpon>
     </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Resources\search1.PNG" />
+    <None Include="Resources\list1.PNG" />
+    <None Include="Resources\Clipboard-list-icon.png" />
+    <None Include="Resources\table-edit-icon.png" />
+    <EmbeddedResource Include="F003_DM_LOP_HOC_GRI.resx">
+      <DependentUpon>F003_DM_LOP_HOC_GRI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <None Include="App.config" />
     <None Include="bin\Debug\Help\help.chm" />
     <None Include="bin\Debug\Reports\Templates\DANH_SACH_DANG_KY_THEO_NGAY.xls" />
